@@ -4,12 +4,10 @@ import json
 import datetime
 import ssl
 
-# Güvenlik sertifikası hatalarını aşmak için
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# Daha güvenilir ve bot engeli olmayan RSS kaynakları
 KAYNAKLAR = [
     {"ad": "BBC Azərbaycanca", "url": "https://feeds.bbci.co.uk/azeri/rss.xml"},
     {"ad": "Report.az", "url": "https://report.az/rss/"},
@@ -18,9 +16,10 @@ KAYNAKLAR = [
 
 tum_haberler = []
 
-# Botun engellenmemesi için gerçek bir Chrome tarayıcı taklidi (Kamuflaj)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    'Accept-Language': 'az,tr;q=0.9,en-US;q=0.8,en;q=0.7'
 }
 
 for kaynak in KAYNAKLAR:
@@ -31,12 +30,13 @@ for kaynak in KAYNAKLAR:
         
         root = ET.fromstring(veri)
         
-        # Her siteden 10 haber alıyoruz
         for item in root.findall('.//item')[:10]:
             baslik = item.find('title').text if item.find('title') is not None else ""
             link = item.find('link').text if item.find('link') is not None else ""
             
-            # Resim bulma mantığı
+            # Haberin GERÇEK tarihini çekme
+            gercek_tarih = item.find('pubDate').text if item.find('pubDate') is not None else str(datetime.datetime.now())
+            
             resim_url = ""
             if item.find('enclosure') is not None:
                 resim_url = item.find('enclosure').get('url', '')
@@ -46,12 +46,11 @@ for kaynak in KAYNAKLAR:
                 "link": link,
                 "resim": resim_url,
                 "kaynak": kaynak["ad"],
-                "zaman": str(datetime.datetime.now())
+                "zaman": gercek_tarih # Botun saati değil, haberin kendi saati!
             })
     except Exception as e:
         print(f"Hata ({kaynak['ad']}): {e}")
 
-# Eğer siteler botu engellerse uygulaman çökmeyip bu mesajı göstersin (Güvenlik Ağı)
 if not tum_haberler:
     tum_haberler.append({
         "baslik": "Sistem Hazır: Haberler Yükleniyor...",
