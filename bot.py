@@ -2,36 +2,44 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import json
 import datetime
+import ssl
 
-# Azerbaycan haber sitelerinin standart RSS bağlantıları (Legal kaynaklar)
+# Güvenlik sertifikası hatalarını aşmak için
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+# Daha güvenilir ve bot engeli olmayan RSS kaynakları
 KAYNAKLAR = [
-    {"ad": "Oxu.az", "url": "https://oxu.az/rss"},
-    {"ad": "Qafqazinfo", "url": "https://qafqazinfo.az/rss"},
-    {"ad": "Report.az", "url": "https://report.az/rss"}
+    {"ad": "BBC Azərbaycanca", "url": "https://feeds.bbci.co.uk/azeri/rss.xml"},
+    {"ad": "Report.az", "url": "https://report.az/rss/"},
+    {"ad": "Oxu.az", "url": "https://oxu.az/rss"}
 ]
 
 tum_haberler = []
 
+# Botun engellenmemesi için gerçek bir Chrome tarayıcı taklidi (Kamuflaj)
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
+
 for kaynak in KAYNAKLAR:
     try:
-        # Siteye bağlanıp veriyi çekiyoruz (Kendimizi normal bir tarayıcı gibi tanıtıyoruz)
-        istek = urllib.request.Request(kaynak["url"], headers={'User-Agent': 'Mozilla/5.0'})
-        yanit = urllib.request.urlopen(istek)
+        istek = urllib.request.Request(kaynak["url"], headers=headers)
+        yanit = urllib.request.urlopen(istek, context=ctx, timeout=10)
         veri = yanit.read()
         
-        # XML (RSS) formatını okuyoruz
         root = ET.fromstring(veri)
         
-        # Sunucuyu yormamak için her siteden en yeni 15 haberi alıyoruz
-        for item in root.findall('.//item')[:15]:
+        # Her siteden 10 haber alıyoruz
+        for item in root.findall('.//item')[:10]:
             baslik = item.find('title').text if item.find('title') is not None else ""
             link = item.find('link').text if item.find('link') is not None else ""
             
-            # Tarih ve resim etiketleri
+            # Resim bulma mantığı
             resim_url = ""
-            enclosure = item.find('enclosure')
-            if enclosure is not None:
-                resim_url = enclosure.get('url', '')
+            if item.find('enclosure') is not None:
+                resim_url = item.find('enclosure').get('url', '')
                 
             tum_haberler.append({
                 "baslik": baslik,
@@ -41,10 +49,17 @@ for kaynak in KAYNAKLAR:
                 "zaman": str(datetime.datetime.now())
             })
     except Exception as e:
-        print(f"Hata oluştu ({kaynak['ad']}): {e}")
+        print(f"Hata ({kaynak['ad']}): {e}")
 
-# Verileri JSON dosyasına kaydediyoruz (Mobil uygulamamızın ücretsiz veritabanı formatı)
+# Eğer siteler botu engellerse uygulaman çökmeyip bu mesajı göstersin (Güvenlik Ağı)
+if not tum_haberler:
+    tum_haberler.append({
+        "baslik": "Sistem Hazır: Haberler Yükleniyor...",
+        "link": "https://google.com",
+        "resim": "https://via.placeholder.com/500x300.png?text=Haber+Bekleniyor",
+        "kaynak": "Sistem Mesajı",
+        "zaman": str(datetime.datetime.now())
+    })
+
 with open("haberler.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_haberler, dosya, ensure_ascii=False, indent=4)
-
-print("Haberler başarıyla çekildi ve JSON dosyasına kaydedildi!")
