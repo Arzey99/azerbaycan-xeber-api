@@ -9,10 +9,13 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
+# Hata veren siteler çıkarıldı, en sağlam 5 dev kaynak bırakıldı!
 KAYNAKLAR = [
     {"ad": "BBC Azərbaycanca", "url": "https://feeds.bbci.co.uk/azeri/rss.xml"},
     {"ad": "Report.az", "url": "https://report.az/rss/"},
-    {"ad": "Oxu.az", "url": "https://oxu.az/rss"}
+    {"ad": "APA", "url": "https://apa.az/rss"},
+    {"ad": "Azərtac", "url": "https://azertag.az/rss"},
+    {"ad": "Trend", "url": "https://az.trend.az/rss"}
 ]
 
 tum_haberler = []
@@ -35,7 +38,6 @@ for kaynak in KAYNAKLAR:
             baslik = item.find('title').text if item.find('title') is not None else ""
             link = item.find('link').text if item.find('link') is not None else ""
             
-            # Tarih yoksa bile standart formata uygun saat ekler
             gercek_tarih = item.find('pubDate').text if item.find('pubDate') is not None else email.utils.format_datetime(datetime.datetime.now())
             
             resim_url = ""
@@ -52,16 +54,14 @@ for kaynak in KAYNAKLAR:
     except Exception as e:
         print(f"Hata ({kaynak['ad']}): {e}")
 
-# --- HABERLERİ KESİN SIRALAMA BÖLÜMÜ ---
 def tarih_cevir(haber):
     try:
         dt = email.utils.parsedate_to_datetime(haber['zaman'])
-        return dt.timestamp() # Tüm tarihleri saniyeye çevirip hatasız kıyaslar
+        return dt.timestamp()
     except:
         return 0.0
 
 tum_haberler.sort(key=tarih_cevir, reverse=True)
-# ---------------------------------------------
 
 with open("haberler.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_haberler, dosya, ensure_ascii=False, indent=4)
