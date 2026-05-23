@@ -9,7 +9,7 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# Hata veren siteler çıkarıldı, en sağlam 5 dev kaynak bırakıldı!
+# 5 Dev Kaynaklı Azerbaycan Haber Ağı
 KAYNAKLAR = [
     {"ad": "BBC Azərbaycanca", "url": "https://feeds.bbci.co.uk/azeri/rss.xml"},
     {"ad": "Report.az", "url": "https://report.az/rss/"},
@@ -54,6 +54,7 @@ for kaynak in KAYNAKLAR:
     except Exception as e:
         print(f"Hata ({kaynak['ad']}): {e}")
 
+# Önce haberleri zamana göre kusursuzca sıralıyoruz
 def tarih_cevir(haber):
     try:
         dt = email.utils.parsedate_to_datetime(haber['zaman'])
@@ -62,6 +63,16 @@ def tarih_cevir(haber):
         return 0.0
 
 tum_haberler.sort(key=tarih_cevir, reverse=True)
+
+# SAAT VE TARİH DÜZENLEME BÖLÜMÜ
+# Sıralama bittikten sonra tarihleri telefon ekranında şık duracak şekilde formatlıyoruz
+for haber in tum_haberler:
+    try:
+        dt = email.utils.parsedate_to_datetime(haber['zaman'])
+        # Uygulamada "24.05.2026 | 14:30" şeklinde görünecek
+        haber['zaman'] = dt.strftime("%d.%m.%Y | %H:%M")
+    except:
+        pass
 
 with open("haberler.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_haberler, dosya, ensure_ascii=False, indent=4)
