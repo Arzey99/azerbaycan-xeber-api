@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 import datetime
 import ssl
-import email.utils # Tarihleri sıralamak için yeni eklendi
+import email.utils
 
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
@@ -35,7 +35,8 @@ for kaynak in KAYNAKLAR:
             baslik = item.find('title').text if item.find('title') is not None else ""
             link = item.find('link').text if item.find('link') is not None else ""
             
-            gercek_tarih = item.find('pubDate').text if item.find('pubDate') is not None else str(datetime.datetime.now())
+            # Tarih yoksa bile standart formata uygun saat ekler
+            gercek_tarih = item.find('pubDate').text if item.find('pubDate') is not None else email.utils.format_datetime(datetime.datetime.now())
             
             resim_url = ""
             if item.find('enclosure') is not None:
@@ -51,24 +52,14 @@ for kaynak in KAYNAKLAR:
     except Exception as e:
         print(f"Hata ({kaynak['ad']}): {e}")
 
-if not tum_haberler:
-    tum_haberler.append({
-        "baslik": "Sistem Hazır: Haberler Yükleniyor...",
-        "link": "https://google.com",
-        "resim": "https://via.placeholder.com/500x300.png?text=Haber+Bekleniyor",
-        "kaynak": "Sistem Mesajı",
-        "zaman": str(datetime.datetime.now())
-    })
-
-# --- HABERLERİ ZAMANA GÖRE SIRALAMA BÖLÜMÜ ---
+# --- HABERLERİ KESİN SIRALAMA BÖLÜMÜ ---
 def tarih_cevir(haber):
     try:
-        # Metin halindeki RSS tarihini bilgisayarın anlayacağı zamana çevirir
-        return email.utils.parsedate_to_datetime(haber['zaman'])
+        dt = email.utils.parsedate_to_datetime(haber['zaman'])
+        return dt.timestamp() # Tüm tarihleri saniyeye çevirip hatasız kıyaslar
     except:
-        return datetime.datetime.min.replace(tzinfo=datetime.timezone.utc)
+        return 0.0
 
-# Listeyi en yeni tarihten en eskiye (reverse=True) doğru sıralıyoruz
 tum_haberler.sort(key=tarih_cevir, reverse=True)
 # ---------------------------------------------
 
