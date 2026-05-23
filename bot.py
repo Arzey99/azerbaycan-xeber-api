@@ -9,7 +9,6 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# 5 Dev Kaynaklı Azerbaycan Haber Ağı
 KAYNAKLAR = [
     {"ad": "BBC Azərbaycanca", "url": "https://feeds.bbci.co.uk/azeri/rss.xml"},
     {"ad": "Report.az", "url": "https://report.az/rss/"},
@@ -40,6 +39,15 @@ for kaynak in KAYNAKLAR:
             
             gercek_tarih = item.find('pubDate').text if item.find('pubDate') is not None else email.utils.format_datetime(datetime.datetime.now())
             
+            # KESİN FORMATLAMA VE SIRALAMA MANTIĞI
+            try:
+                dt = email.utils.parsedate_to_datetime(gercek_tarih)
+                siralama_puani = dt.timestamp() # Sıralamak için gizli saniye değeri
+                gosterilecek_zaman = dt.strftime("%d.%m.%Y | %H:%M") # Uygulamada görünecek şık tarih
+            except:
+                siralama_puani = 0.0
+                gosterilecek_zaman = gercek_tarih
+
             resim_url = ""
             if item.find('enclosure') is not None:
                 resim_url = item.find('enclosure').get('url', '')
@@ -49,30 +57,18 @@ for kaynak in KAYNAKLAR:
                 "link": link,
                 "resim": resim_url,
                 "kaynak": kaynak["ad"],
-                "zaman": gercek_tarih 
+                "zaman": gosterilecek_zaman,
+                "siralama_puani": siralama_puani
             })
     except Exception as e:
         print(f"Hata ({kaynak['ad']}): {e}")
 
-# Önce haberleri zamana göre kusursuzca sıralıyoruz
-def tarih_cevir(haber):
-    try:
-        dt = email.utils.parsedate_to_datetime(haber['zaman'])
-        return dt.timestamp()
-    except:
-        return 0.0
+# Gizli saniye değerine göre hatasız sırala
+tum_haberler.sort(key=lambda x: x["siralama_puani"], reverse=True)
 
-tum_haberler.sort(key=tarih_cevir, reverse=True)
-
-# SAAT VE TARİH DÜZENLEME BÖLÜMÜ
-# Sıralama bittikten sonra tarihleri telefon ekranında şık duracak şekilde formatlıyoruz
+# Sıralama bittikten sonra gizli saniye değerini JSON dosyasından temizle
 for haber in tum_haberler:
-    try:
-        dt = email.utils.parsedate_to_datetime(haber['zaman'])
-        # Uygulamada "24.05.2026 | 14:30" şeklinde görünecek
-        haber['zaman'] = dt.strftime("%d.%m.%Y | %H:%M")
-    except:
-        pass
+    del haber["siralama_puani"]
 
 with open("haberler.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_haberler, dosya, ensure_ascii=False, indent=4)
