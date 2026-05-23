@@ -1,0 +1,30 @@
+name: Avtomatik Xeber Yenilenmesi
+
+on:
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch: 
+
+jobs:
+  xeberleri-yenile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodlari servere cek
+        uses: actions/checkout@v3
+
+      - name: Python qurasdir
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Botu ishe sal
+        run: |
+          pip install requests beautifulsoup4
+          python bot.py
+
+      - name: Yeni xeberleri GitHub-a gonder
+        run: |
+          git config --global user.name "Avtomatik Bot"
+          git config --global user.email "bot@xeber.az"
+          git add haberler.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Avtomatik xeber yenilenmesi" && git push)
