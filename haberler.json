@@ -1,10 +1,185 @@
 [
     {
-        "baslik": "Finlandiya Prezidenti Rusiya ilə sərhədin açılmasına qarşı çıxıb",
-        "link": "https://apa.az/europe/finlandiya-prezidenti-rusiya-ile-serhedin-acilmasina-qarsi-cixib-967298",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13316a930956a13316a9309617796427306a13316a930936a13316a93094.jpg",
+        "baslik": "İtaliyanın \"Komo\" klubu ilk dəfə Çempionlar Liqasına vəsiqə qazanıb",
+        "link": "https://az.trend.az/azerbaijan/sports/4190488.html",
+        "resim": "https://az.trend.az/media/2026/05/25/como_logo.jpg",
+        "kaynak": "Trend",
+        "zaman": "25.05.2026 | 01:29"
+    },
+    {
+        "baslik": "Füzulidə ildırım bir nəfəri vuraraq öldürüb",
+        "link": "https://azertag.az/xeber/fuzulide_ildirim_bir_neferi_vuraraq_oldurub-4221831",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "25.05.2026 | 01:20"
+    },
+    {
+        "baslik": "Britaniya və Fransa NATO-nun Ukrayna ilə bağlı təşəbbüsünü dəstəkləməyib",
+        "link": "https://apa.az/europe/britaniya-ve-fransa-nato-nun-ukrayna-ile-bagli-tesebbusunu-desteklemeyib-967313",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a135064d6a606a135064d6a6117796506606a135064d6a5e6a135064d6a5f.webp",
         "kaynak": "APA",
-        "zaman": "24.05.2026 | 22:11"
+        "zaman": "25.05.2026 | 01:17"
+    },
+    {
+        "baslik": "Tramp: İranla bağlı razılaşma hələ yekunlaşmayıb",
+        "link": "https://azertag.az/xeber/tramp_iranla_bagli_razilasma_hele_yekunlasmayib-4221827",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "25.05.2026 | 01:17"
+    },
+    {
+        "baslik": "Qabriel Attal Fransada prezident seçkilərinə namizədliyini rəsmən elan edib",
+        "link": "https://az.trend.az/other/world/4190486.html",
+        "resim": "https://az.trend.az/media/2026/05/25/gabriel_attal.jpg",
+        "kaynak": "Trend",
+        "zaman": "25.05.2026 | 01:04"
+    },
+    {
+        "baslik": "Oman və İran Hörmüz boğazında gəmiçiliyin təhlükəsizliyini müzakirə edib",
+        "link": "https://apa.az/asia/oman-ve-iran-hormuz-bogazinda-gemiciliyin-tehlukesizliyini-muzakire-edib-967314",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a1350f2b8a526a1350f2b8a5317796508026a1350f2b8a4f6a1350f2b8a50.jpg",
+        "kaynak": "APA",
+        "zaman": "25.05.2026 | 00:46"
+    },
+    {
+        "baslik": "Böyük Britaniya və Fransa NATO-nun Ukraynaya yardım ilə bağlı təklifini bloklayıblar",
+        "link": "https://az.trend.az/other/world/4190485.html",
+        "resim": "https://www.trend.az/assets/img/image-placeholder.png",
+        "kaynak": "Trend",
+        "zaman": "25.05.2026 | 00:36"
+    },
+    {
+        "baslik": "İmişlidə yol qəzası olub, ölən və yaralılar var",
+        "link": "https://azertag.az/xeber/imislide_yol_qezasi_olub_olen_ve_yaralilar_var-4221815",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "25.05.2026 | 00:34"
+    },
+    {
+        "baslik": "İmişlidə ağır qəza nəticəsində 2 nəfər ölüb, 4 nəfər xəsarət alıb",
+        "link": "https://apa.az/incident/imislide-agir-qeza-neticesinde-2-nefer-olub-4-nefer-xesaret-alib-967325",
+        "resim": "https://apa.az/storage/news/2026/may/25/resize/6a135dc97925a6a135dc97925b17796540896a135dc9792586a135dc979259.jpg",
+        "kaynak": "APA",
+        "zaman": "25.05.2026 | 00:16"
+    },
+    {
+        "baslik": "Rubio: ABŞ Hörmüz boğazı açıldıqdan sonra nüvə məsələsini müzakirə etməyə hazırdır",
+        "link": "https://apa.az/america/rubio-abs-hormuz-bogazi-acildiqdan-sonra-nuve-meselesini-muzakire-etmeye-hazirdir-967321",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13549ba8f126a13549ba8f1317796517396a13549ba8f106a13549ba8f11.jpg",
+        "kaynak": "APA",
+        "zaman": "25.05.2026 | 00:12"
+    },
+    {
+        "baslik": "Qabriel Attal Fransada prezident seçkilərinə namizədliyini rəsmən elan edib",
+        "link": "https://azertag.az/xeber/qabriel_attal_fransada_prezident_sechkilerine_namizedliyini_resmen_elan_edib-4221811",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "25.05.2026 | 00:05"
+    },
+    {
+        "baslik": "ABŞ Hörmüz boğazı açıldıqdan sonra nüvə məsələsini müzakirə etməyə hazır olacaq - Rubio",
+        "link": "https://az.trend.az/other/world/4190483.html",
+        "resim": "https://az.trend.az/media/2026/01/13/marco_rubio.jpg",
+        "kaynak": "Trend",
+        "zaman": "25.05.2026 | 00:03"
+    },
+    {
+        "baslik": "ABŞ dövlər katibi: Tehran Vaşinqtonun şərtlərini qəbul etsə, fayda əldə edəcək",
+        "link": "https://apa.az/america/abs-dovler-katibi-tehran-vasinqtonun-sertlerini-qebul-etse-fayda-elde-edecek-967320",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a135400799a46a135400799a517796515846a135400799a26a135400799a3.webp",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 23:58"
+    },
+    {
+        "baslik": "Rubio: ABŞ Hörmüz boğazı açıldıqdan sonra nüvə məsələsini müzakirə etməyə hazır olacaq",
+        "link": "https://azertag.az/xeber/rubio_abs_hormuz_bogazi_achildiqdan_sonra_nuve_meselesini_muzakire_etmeye_hazir_olacaq-4221807",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "24.05.2026 | 23:53"
+    },
+    {
+        "baslik": "Rubio: ABŞ İrana qarşı hərbi əməliyyatların bərpasını istisna etmir",
+        "link": "https://apa.az/america/rubio-abs-irana-qarsi-herbi-emeliyyatlarin-berpasini-istisna-etmir-967319",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13538e65ed66a13538e65ed717796514706a13538e65ed26a13538e65ed4.jpg",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 23:44"
+    },
+    {
+        "baslik": "İranla saziş hələ tam razılaşdırılmayıb - Tramp",
+        "link": "https://az.trend.az/other/world/4190480.html",
+        "resim": "https://az.trend.az/media/2026/01/23/donald_trump_8.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.05.2026 | 23:36"
+    },
+    {
+        "baslik": "Tramp: İranla saziş hələ tam razılaşdırılmayıb",
+        "link": "https://apa.az/america/tramp-iranla-sazis-hele-tam-razilasdirilmayib-967317",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a1352c5d7bda6a1352c5d7bdb17796512696a1352c5d7bd86a1352c5d7bd9.jpg",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 23:34"
+    },
+    {
+        "baslik": "“Qarabağ” növbəti transferini reallaşdırıb",
+        "link": "https://az.trend.az/azerbaijan/sports/4190479.html",
+        "resim": "https://az.trend.az/media/2026/05/24/zakariya_savo.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.05.2026 | 23:08"
+    },
+    {
+        "baslik": "Azərbaycan yeni beynəlxalq təşəbbüslər irəli sürən mühüm dövlətlərdən birinə çevrilib  ŞƏRH",
+        "link": "https://azertag.az/xeber/azerbaycan_yeni_beynelxalq_tesebbusler_ireli_suren_muhum_dovletlerden_birine_chevrilib__serh-4221799",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "24.05.2026 | 23:03"
+    },
+    {
+        "baslik": "Füzulidə qoyun otaran kişini ildırım vuraraq öldürüb",
+        "link": "https://apa.az/incident/fuzulide-qoyun-otaran-kisini-ildirim-vuraraq-oldurub-967307",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a135c904d5f96a135c904d5fa17796537766a135c904d5f76a135c904d5f8.webp",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 23:02"
+    },
+    {
+        "baslik": "KİV: ABŞ İranın bir neçə gün ərzində sülh sazişini təsdiqləyəcəyini gözləyir",
+        "link": "https://apa.az/america/kiv-abs-iranin-bir-nece-gun-erzinde-sulh-sazisini-tesdiqleyeceyini-gozleyir-967310",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a134a9c27a606a134a9c27a6117796491806a134a9c27a5d6a134a9c27a5f.png",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 22:58"
+    },
+    {
+        "baslik": "Füzulidə 77 yaşlı kişi at belində ildırım vurması nəticəsində ölüb",
+        "link": "https://az.trend.az/azerbaijan/incident/4190478.html",
+        "resim": "https://az.trend.az/media/2026/04/27/trend_ildirim_thunder.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.05.2026 | 22:58"
+    },
+    {
+        "baslik": "FHN qeyri-sabit hava şəraiti ilə əlaqədar əhaliyə müraciət edib",
+        "link": "https://azertag.az/xeber/fhn_qeyri_sabit_hava_seraiti_ile_elaqedar_ehaliye_muraciet_edib-4221791",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "24.05.2026 | 22:47"
+    },
+    {
+        "baslik": "FHN qeyri-sabit hava şəraiti ilə əlaqədar əhaliyə müraciət edib",
+        "link": "https://az.trend.az/azerbaijan/society/4190476.html",
+        "resim": "https://az.trend.az/media/2017/03/17/trend_fhn_building_bina_170317.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.05.2026 | 22:37"
+    },
+    {
+        "baslik": "FHN qeyri-sabit hava şəraiti ilə əlaqədar əhaliyə müraciət edib",
+        "link": "https://apa.az/weather-forecast/fhn-qeyri-sabit-hava-seraiti-ile-elaqedar-ehaliye-muraciet-edib-967301",
+        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13452c57bed6a13452c57bee17796477886a13452c57beb6a13452c57bec.webp",
+        "kaynak": "APA",
+        "zaman": "24.05.2026 | 22:36"
+    },
+    {
+        "baslik": "Tramp Netanyahuya İranın nüvə proqramını dayandıracağına söz verib",
+        "link": "https://az.trend.az/other/world/4190473.html",
+        "resim": "https://az.trend.az/media/2026/01/23/donald_trump_6.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.05.2026 | 22:15"
     },
     {
         "baslik": "Türkiyənin xarici işlər naziri Ukrayna Milli Təhlükəsizlik və Müdafiə Şurasının katibi ilə görüşüb",
@@ -21,48 +196,6 @@
         "zaman": "24.05.2026 | 21:56"
     },
     {
-        "baslik": "KİV: İran uranla bağlı planı ABŞ-la 60 günə razılaşdıra bilər",
-        "link": "https://apa.az/asia/kiv-iran-uranla-bagli-plani-abs-la-60-gune-razilasdira-biler-967296",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13311ab38066a13311ab380717796426506a13311ab38026a13311ab3804.webp",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 21:53"
-    },
-    {
-        "baslik": "\"Tottenhem\" İngiltərə Premyer Liqasında qalıb",
-        "link": "https://az.trend.az/azerbaijan/sports/4190470.html",
-        "resim": "https://az.trend.az/media/2026/04/01/tottenham_logo.png",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 21:30"
-    },
-    {
-        "baslik": "Anqolada qızıl mədənində torpaq sürüşməsi olub, azı 28 nəfər ölüb",
-        "link": "https://apa.az/africa/anqolada-qizil-medeninde-torpaq-surusmesi-olub-azi-28-nefer-olub-967295",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a132dde3a9546a132dde3a95517796418226a132dde3a9526a132dde3a953.jpg",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 21:28"
-    },
-    {
-        "baslik": "Netanyahu: Tramp İsrailin bütün cəbhələrdə özünü müdafiə hüququnu təsdiqləyib",
-        "link": "https://apa.az/asia/netanyahu-tramp-israilin-butun-cebhelerde-ozunu-mudafie-huququnu-tesdiqleyib-967293",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a132d168e7c86a132d168e7c917796416226a132d168e7c66a132d168e7c7.webp",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 21:05"
-    },
-    {
-        "baslik": "Fransada 2 milyon avro dəyərində avtomobilləri oğurlayan cinayətkar qruplaşmanın üzvləri tutulub",
-        "link": "https://az.trend.az/other/world/4190467.html",
-        "resim": "https://az.trend.az/media/2020/07/17/trend_paris_171012_2.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 20:53"
-    },
-    {
-        "baslik": "Netanyahu: İranla yekun razılaşma uranın ölkədən çıxarılmasını nəzərdə tutmalıdır",
-        "link": "https://apa.az/asia/netanyahu-iranla-yekun-razilasma-uranin-olkeden-cixarilmasini-nezerde-tutmalidir-967291",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a132c67de57c6a132c67de57d17796414476a132c67de57a6a132c67de57b.jpg",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 20:49"
-    },
-    {
         "baslik": "Azərbaycan İstanbulda keçirilən Etnoidman Beynəlxalq Mədəniyyət Festivalında təmsil olunub",
         "link": "https://azertag.az/xeber/azerbaycan_istanbulda_kechirilen_etnoidman_beynelxalq_medeniyyet_festivalinda_temsil_olunub-4221747",
         "resim": "",
@@ -75,139 +208,6 @@
         "resim": "",
         "kaynak": "Azərtac",
         "zaman": "24.05.2026 | 20:35"
-    },
-    {
-        "baslik": "Lənkəranda avtomobil obyektə çırpılıb, sürücü ölüb - FOTO",
-        "link": "https://apa.az/incident/lenkeranda-avtomobil-obyekte-cirpilib-surucu-olub-foto-967283",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13226a2ecc66a13226a2ecc717796388906a13226a2ecc46a13226a2ecc5.jpg",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 20:19"
-    },
-    {
-        "baslik": "Türkiyəli ekspert: WUF13 Bakının qlobal şəhərsalma dialoqunda artan rolunu nümayiş etdirdi",
-        "link": "https://apa.az/wuf13/turkiyeli-ekspert-wuf13-bakinin-qlobal-sehersalma-dialoqunda-artan-rolunu-numayis-etdirdi-967211",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a126a1f7746c6a126a1f7746d17795917116a126a1f774686a126a1f7746a.webp",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 20:17"
-    },
-    {
-        "baslik": "Azərbaycan güləşçiləri Avropa çempionatında 6 medal qazanıblar",
-        "link": "https://apa.az/fighting-sports/azerbaycan-gulescileri-avropa-cempionatinda-6-medal-qazaniblar-967285",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a13246892bd16a13246892bd217796394006a13246892bcf6a13246892bd0.jpg",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 20:12"
-    },
-    {
-        "baslik": "Azərbaycan güləşçiləri Avropa çempionatında 6 medal qazanıblar (FOTO)",
-        "link": "https://az.trend.az/azerbaijan/sports/4190462.html",
-        "resim": "https://az.trend.az/media/2026/05/24/gules_medallar_1_01.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 20:10"
-    },
-    {
-        "baslik": "Lənkəranda sürücü sükan arxasında ölüb",
-        "link": "https://azertag.az/xeber/lenkeranda_surucu_sukan_arxasinda_olub-4221719",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 20:07"
-    },
-    {
-        "baslik": "İsveçdə uşaq zorakılığı ilə bağlı onlarla şübhəli müəyyən edilib",
-        "link": "https://azertag.az/xeber/isvechde_usaq_zorakiligi_ile_bagli_onlarla_subheli_mueyyen_edilib-4221715",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 20:07"
-    },
-    {
-        "baslik": "Bu saata olan əsas xəbərlər",
-        "link": "https://azertag.az/xeber/bu_saata_olan_esas_xeberler-4221691",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 20:00"
-    },
-    {
-        "baslik": "Azərbaycanın sərbəst güləşçiləri Avropa çempionatının son günündə 5 medal qazanıblar",
-        "link": "https://azertag.az/xeber/azerbaycanin_serbest_guleschileri_avropa_chempionatinin_son_gununde_5_medal_qazaniblar-4221695",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 19:56"
-    },
-    {
-        "baslik": "Rusiya Ordusu Kiyevə raket zərbəsi endirib, 4 nəfər ölüb, 100-ə yaxın yaralı var - YENİLƏNİB-2",
-        "link": "https://apa.az/europe/rusiya-ordusu-kiyeve-raket-zerbesi-endirib-4-nefer-olub-100-e-yaxin-yarali-var-yenilenib-2-967194",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a122f0aea2c66a122f0aea2c717795765866a122f0aea2c46a122f0aea2c5.webp",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 19:54"
-    },
-    {
-        "baslik": "Azərbaycan karateçiləri Avropa çempionatında 9 medal qazanıblar",
-        "link": "https://az.trend.az/azerbaijan/sports/4190461.html",
-        "resim": "https://az.trend.az/media/2026/05/24/9mznh757tpqxn6uflbjrtcxajsxpx63djebockn6_1200.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 19:43"
-    },
-    {
-        "baslik": "ABŞ Prezidenti: Bəlkə İran da İbrahim razılaşmasına qoşulmaq istəyər",
-        "link": "https://apa.az/america/abs-prezidenti-belke-iran-da-ibrahim-razilasmasina-qosulmaq-isteyer-967282",
-        "resim": "https://apa.az/storage/news/2026/may/24/resize/6a131a33c69bb6a131a33c69bc17796367873bb6ce31025a0f1c284c93572d6e49e1.jpg",
-        "kaynak": "APA",
-        "zaman": "24.05.2026 | 19:32"
-    },
-    {
-        "baslik": "İbrahim Kalın: Müasir Türkiyə tarixin gedişatını istiqəmətləndirən aktordur",
-        "link": "https://azertag.az/xeber/ibrahim_kalin_muasir_turkiye_tarixin_gedisatini_istiqemetlendiren_aktordur-4221683",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 19:30"
-    },
-    {
-        "baslik": "“QUMUN 2026” iştirakçıları beynəlxalq qərarqəbuletmə proseslərini simulyasiya ediblər",
-        "link": "https://azertag.az/xeber/qumun_2026_istirakchilari_beynelxalq_qerarqebuletme_proseslerini_simulyasiya_edibler-4221679",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 19:22"
-    },
-    {
-        "baslik": "Nərimanov rayonunda “Opel” markalı avtomobil yanıb (VİDEO)",
-        "link": "https://az.trend.az/azerbaijan/incident/4190458.html",
-        "resim": "https://az.trend.az/media/2026/05/24/untitled.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 19:11"
-    },
-    {
-        "baslik": "Nərimanov rayonunda “Opel” markalı avtomobildə yanğın olub",
-        "link": "https://azertag.az/xeber/nerimanov_rayonunda_opel_markali_avtomobilde_yangin_olub-4221675",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "24.05.2026 | 19:01"
-    },
-    {
-        "baslik": "BDYPİ əlverişsiz hava şəraiti ilə bağlı sürücülərə və piyadalara xəbərdarlıq edib",
-        "link": "https://az.trend.az/azerbaijan/society/4190457.html",
-        "resim": "https://az.trend.az/media/2026/05/24/b58c2b1b-2e97-4c20-aa06-5e0b3521fded.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 18:39"
-    },
-    {
-        "baslik": "Şəhidlərimizin xatirəsi ehtiramla yad edilib (FOTO)",
-        "link": "https://az.trend.az/azerbaijan/society/4190456.html",
-        "resim": "https://az.trend.az/media/2026/05/24/1779631822206727562_1200x630.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 18:23"
-    },
-    {
-        "baslik": "Qılıncoynatma üzrə Bakı birinciliyinin qalibləri müəyyənləşib",
-        "link": "https://az.trend.az/azerbaijan/sports/4190454.html",
-        "resim": "https://az.trend.az/media/2026/05/24/o99ubz6hmawwulhsdlbzjk916qnpfy9brtn0ufxm_1200.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 17:46"
-    },
-    {
-        "baslik": "Küləkli hava şəraiti ilə bağlı sarı və narıncı xəbərdarlıq verilib",
-        "link": "https://az.trend.az/azerbaijan/society/4190452.html",
-        "resim": "https://az.trend.az/media/2024/09/12/kulek.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.05.2026 | 17:12"
     },
     {
         "baslik": "Belqradda tələbə etirazından sonra polislə toqquşma olub",
