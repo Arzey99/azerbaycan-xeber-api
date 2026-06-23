@@ -1,10 +1,73 @@
 [
     {
+        "baslik": "Dünya çempionatı: İngiltərə və Qana heç-heçə ediblər",
+        "link": "https://az.trend.az/azerbaijan/sports/4200951.html",
+        "resim": "https://az.trend.az/media/2025/03/21/fifa.png",
+        "kaynak": "Trend",
+        "zaman": "24.06.2026 | 02:09"
+    },
+    {
+        "baslik": "DÇ-2026: İngiltərə millisi Qana yığması ilə heç-heçə edib",
+        "link": "https://apa.az/football/dc-2026-ingiltere-millisi-qana-yigmasi-ile-hec-hece-edib-975630",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3b02a684f4c6a3b02a684f4d17822521986a3b02a684f4a6a3b02a684f4b.webp",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 02:03"
+    },
+    {
+        "baslik": "Naxçıvanda iki nəqliyyat vasitəsinin toqquşması nəticəsində 3 nəfər xəsarət alıb - FOTO",
+        "link": "https://apa.az/incident/naxcivanda-iki-neqliyyat-vasitesinin-toqqusmasi-neticesinde-3-nefer-xesaret-alib-foto-975620",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3afde3c10266a3afde3c102717822509796a3afde3c10246a3afde3c1025.jpg",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 01:52"
+    },
+    {
+        "baslik": "Media: Avropa tənzimləyicisi “Airbus” təyyarələrində çatlar səbəbindən yoxlama tələb edib",
+        "link": "https://azertag.az/xeber/media_avropa_tenzimleyicisi_airbus_teyyarelerinde_chatlar_sebebinden_yoxlama_teleb_edib-4280511",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "24.06.2026 | 01:48"
+    },
+    {
+        "baslik": "Tramp: Müharibə yenidən başlasa, ABŞ İranda işi bir həftəyə bitirər",
+        "link": "https://apa.az/america/tramp-muharibe-yeniden-baslasa-abs-iranda-isi-bir-hefteye-bitirer-975616",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3af8c81bbef6a3af8c81bbf017822496726a3af8c81bbed6a3af8c81bbee.jpg",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 01:33"
+    },
+    {
+        "baslik": "ABŞ Senatı İranla müharibəyə son qoymaq üçün qətnamə qəbul edib",
+        "link": "https://az.trend.az/other/world/4200950.html",
+        "resim": "https://az.trend.az/media/2025/12/13/senate.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.06.2026 | 01:33"
+    },
+    {
+        "baslik": "ABŞ Prezidenti: Venesuela əməliyyatının xərclərini neft gəlirləri ilə dəfələrlə geri qaytarmışıq",
+        "link": "https://azertag.az/xeber/abs_prezidenti_venesuela_emeliyyatinin_xerclerini_neft_gelirleri_ile_defelerle_geri_qaytarmisiq-4280507",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "24.06.2026 | 01:20"
+    },
+    {
+        "baslik": "ABŞ Senatı İrana qarşı müharibənin dayandırılmasına çağıran qətnamə qəbul edib",
+        "link": "https://apa.az/america/abs-senati-irana-qarsi-muharibenin-dayandirilmasina-cagiran-qetname-qebul-edib-975615",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3af7312d88c6a3af7312d88d17822492656a3af7312d88a6a3af7312d88b.webp",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 01:14"
+    },
+    {
         "baslik": "İran BAEA müfəttişlərini qəbul etməzsə, ABŞ yeni qərarlar qəbul edəcək - Rubio",
         "link": "https://az.trend.az/other/world/4200947.html",
-        "resim": "https://www.trend.az/assets/img/image-placeholder.png",
+        "resim": "https://az.trend.az/media/2026/05/26/marco_rubio_1.jpg",
         "kaynak": "Trend",
         "zaman": "24.06.2026 | 00:57"
+    },
+    {
+        "baslik": "Türkiyənin iki vilayətində naməlum pilotsuz uçuş aparatları aşkarlanıb",
+        "link": "https://apa.az/asia/turkiyenin-iki-vilayetinde-namelum-pilotsuz-ucus-aparatlari-askarlanib-975613",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3af3e20b1866a3af3e20b18717822484186a3af3e20b1846a3af3e20b185.webp",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 00:54"
     },
     {
         "baslik": "Tramp İranla danışıqların gedişatından məmnun olduğunu bildirib",
@@ -133,34 +196,6 @@
         "zaman": "23.06.2026 | 22:34"
     },
     {
-        "baslik": "Şahbaz Şərif: ABŞ-İran memorandumunda raket proqramı ilə bağlı heç bir müddəa yoxdur",
-        "link": "https://apa.az/asia/sahbaz-serif-abs-iran-memorandumunda-raket-proqrami-ile-bagli-hec-bir-muddea-yoxdur-975600",
-        "resim": "https://apa.az/storage/news/2026/june/23/resize/6a3acaca360cd6a3acaca360ce17822378986a3acaca360cb6a3acaca360cc.webp",
-        "kaynak": "APA",
-        "zaman": "23.06.2026 | 22:34"
-    },
-    {
-        "baslik": "Bundestaqın deputatları Almaniyada hərbi sifarişlərin bahalaşmasından narahatdırlar",
-        "link": "https://azertag.az/xeber/bundestaqin_deputatlari_almaniyada_herbi_sifarislerin_bahalasmasindan_narahatdirlar-4280447",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "23.06.2026 | 22:33"
-    },
-    {
-        "baslik": "Maliyyə Nazirliyində dövlət qulluğuna qəbul edilən əməkdaşların andiçmə mərasimi olub",
-        "link": "https://azertag.az/xeber/maliyye_nazirliyinde_dovlet_qulluguna_qebul_edilen_emekdaslarin_andichme_merasimi_olub-4280443",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "23.06.2026 | 22:32"
-    },
-    {
-        "baslik": "Pezeşkian: Tehran Vaşinqtona etibar etmir, lakin ABŞ-la memorandum üzrə öhdəliklərini yerinə yetirəcək",
-        "link": "https://apa.az/asia/pezeskian-tehran-vasinqtona-etibar-etmir-lakin-abs-la-memorandum-uzre-ohdeliklerini-yerine-yetirecek-975605",
-        "resim": "https://apa.az/storage/news/2026/june/23/resize/6a3ad064ba91f6a3ad064ba92017822393326a3ad064ba91d6a3ad064ba91e.jpg",
-        "kaynak": "APA",
-        "zaman": "23.06.2026 | 22:22"
-    },
-    {
         "baslik": "Bakıda daha bir küçədə hərəkət qismən məhdudlaşdırılacaq",
         "link": "https://az.trend.az/azerbaijan/society/4200933.html",
         "resim": "https://az.trend.az/media/2025/06/16/qeza_yeni_umumi.jpg",
@@ -168,46 +203,11 @@
         "zaman": "23.06.2026 | 22:15"
     },
     {
-        "baslik": "Tramp: AEBA müfəttişlərinin İrana göndərilməsi ilə bağlı tələskənlik yoxdur",
-        "link": "https://apa.az/america/tramp-aeba-mufettislerinin-irana-gonderilmesi-ile-bagli-teleskenlik-yoxdur-975598",
-        "resim": "https://apa.az/storage/news/2026/june/23/resize/6a3aca6dcec976a3aca6dcec9817822378056a3aca6dcec956a3aca6dcec96.jpg",
-        "kaynak": "APA",
-        "zaman": "23.06.2026 | 22:11"
-    },
-    {
         "baslik": "Azərbaycanın namizədi BMT-nin Uşaq Hüquqları Komitəsinə üzv seçilib",
         "link": "https://az.trend.az/azerbaijan/politics/4200932.html",
         "resim": "https://az.trend.az/media/2024/05/14/trend_xin_2024_3.jpg",
         "kaynak": "Trend",
         "zaman": "23.06.2026 | 22:10"
-    },
-    {
-        "baslik": "Azərbaycanın namizədi BMT-nin Uşaq Hüquqları Komitəsinin üzvlüyünə seçilib",
-        "link": "https://apa.az/foreign-policy/azerbaycanin-namizedi-bmt-nin-usaq-huquqlari-komitesinin-uzvluyune-secilib-975597",
-        "resim": "https://apa.az/storage/news/2026/june/23/resize/6a3ac9c4a97ec6a3ac9c4a97ed17822376366a3ac9c4a97ea6a3ac9c4a97eb.webp",
-        "kaynak": "APA",
-        "zaman": "23.06.2026 | 22:02"
-    },
-    {
-        "baslik": "Prezidentin sosial media hesablarında Sərdar Berdiməhəmmədovun Azərbaycana səfərinə dair videoçarx paylaşılıb - VİDEO",
-        "link": "https://apa.az/official-news/prezidentin-sosial-media-hesablarinda-serdar-berdimehemmedovun-azerbaycana-seferine-dair-videocarx-paylasilib-video-975596",
-        "resim": "https://apa.az/storage/news/2026/june/23/resize/6a3ac8c4531616a3ac8c45316217822373806a3ac8c45315e6a3ac8c453160.jpg",
-        "kaynak": "APA",
-        "zaman": "23.06.2026 | 21:53"
-    },
-    {
-        "baslik": "Prezident İlham Əliyevin sosial şəbəkə hesablarında Türkmənistan Prezidenti ilə görüşündən görüntülər paylaşılıb (VİDEO)",
-        "link": "https://az.trend.az/azerbaijan/politics/4200930.html",
-        "resim": "https://az.trend.az/media/2020/03/20/ilham_aliyev_main_photo_200320_3.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.06.2026 | 21:50"
-    },
-    {
-        "baslik": "Qafqazdan keçən Orta Dəhliz Avropanın ticarət və enerji gələcəyinin açarıdır - Marta Kos",
-        "link": "https://az.trend.az/business/4200928.html",
-        "resim": "https://az.trend.az/media/2025/10/04/marta_kos_3.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.06.2026 | 21:46"
     },
     {
         "baslik": "Azərbaycandan Türkmənistana tanker",
