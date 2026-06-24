@@ -1,5 +1,75 @@
 [
     {
+        "baslik": "Bu gün Aşuradır",
+        "link": "https://apa.az/religion/bu-gun-asuradir-975783",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3b91bf483fc6a3b91bf483fd17822888316a3b91bf483f96a3b91bf483fb.jpg",
+        "kaynak": "APA",
+        "zaman": "25.06.2026 | 00:01"
+    },
+    {
+        "baslik": "Premyer Liqaya yüksələn klubunun yeni baş məşqçisi bəlli oldu",
+        "link": "https://az.trend.az/azerbaijan/sports/4201392.html",
+        "resim": "https://az.trend.az/media/2024/11/30/football_ball_301124.jpg",
+        "kaynak": "Trend",
+        "zaman": "25.06.2026 | 00:00"
+    },
+    {
+        "baslik": "Lent.az-ın 18 yaşı tamam olur",
+        "link": "https://apa.az/media/lentaz-in-18-yasi-tamam-olur-975893",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3bd2fcd3eba6a3bd2fcd3ebb17823055326a3bd2fcd3eb86a3bd2fcd3eb9.png",
+        "kaynak": "APA",
+        "zaman": "25.06.2026 | 00:00"
+    },
+    {
+        "baslik": "AB sabah Ukrayna üçün ayrılan 90 milyard avroluq kreditin ilk 3,2 milyard avrosunu verəcək",
+        "link": "https://apa.az/social/ab-sabah-ukrayna-ucun-ayrilan-90-milyard-avroluq-kreditin-ilk-32-milyard-avrosunu-verecek-975999",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c30189c6f16a3c30189c6f217823293686a3c30189c6ef6a3c30189c6f0.jpg",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 23:41"
+    },
+    {
+        "baslik": "Milli Məclisin İnsan hüquqları komitəsinin növbəti iclası keçirilib (FOTO)",
+        "link": "https://az.trend.az/azerbaijan/politics/4201389.html",
+        "resim": "https://az.trend.az/media/2026/06/24/dsc_9950_1782316733.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.06.2026 | 23:13"
+    },
+    {
+        "baslik": "\"Varex Imaging Corporation\" şirkəti USACC-nin üzvü olub",
+        "link": "https://az.trend.az/business/4201387.html",
+        "resim": "https://az.trend.az/media/2026/03/10/usacc_logo.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.06.2026 | 23:09"
+    },
+    {
+        "baslik": "Tramp: İran ABŞ ilə danışıqlarda çox böyük güzəştlərə gedir",
+        "link": "https://apa.az/america/tramp-iran-abs-ile-danisiqlarda-cox-boyuk-guzestlere-gedir-975997",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c29a4047db6a3c29a4047dc17823277166a3c29a4047d96a3c29a4047da.jpg",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 23:01"
+    },
+    {
+        "baslik": "Səbinə Salmanova: Qalibafın Bakıda verdiyi mesajlar Azərbaycan-İran münasibətlərinin real mahiyyətini ortaya qoydu",
+        "link": "https://apa.az/foreign-policy/sebine-salmanova-qalibafin-bakida-verdiyi-mesajlar-azerbaycan-iran-munasibetlerinin-real-mahiyyetini-ortaya-qoydu-975995",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c2868d73f56a3c2868d73f617823274006a3c2868d73f36a3c2868d73f4.jpg",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 22:55"
+    },
+    {
+        "baslik": "Qərbi azərbaycanlıların qayıdışı ilə bağlı ABŞ Konqresinə müraciət ünvanlanıb",
+        "link": "https://az.trend.az/azerbaijan/politics/4201384.html",
+        "resim": "https://az.trend.az/media/2026/06/24/17823245353835421036_1200x630.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.06.2026 | 22:49"
+    },
+    {
+        "baslik": "Rubio İranı BAEA müfəttişlərinin İrana girişinə mümkün qədər tez icazə verməyə çağırıb",
+        "link": "https://apa.az/america/rubio-irani-baea-mufettislerinin-irana-girisine-mumkun-qeder-tez-icaze-vermeye-cagirib-975994",
+        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c20032f7166a3c20032f71717823252516a3c20032f7146a3c20032f715.webp",
+        "kaynak": "APA",
+        "zaman": "24.06.2026 | 22:20"
+    },
+    {
         "baslik": "Könüllü tibbi sığortanın inkişafı səhiyyə islahatlarının növbəti mərhələsidir - Deputat",
         "link": "https://az.trend.az/azerbaijan/society/4201381.html",
         "resim": "https://az.trend.az/media/2026/06/24/reshad_rashad_mahmudov.png",
@@ -56,32 +126,11 @@
         "zaman": "24.06.2026 | 16:55"
     },
     {
-        "baslik": "İyunun 7-də keçirilmiş qəbul imtahanının nəticəsi elan olunub, 16 nəfərin nəticələri ləğv edilib",
-        "link": "https://apa.az/science-and-education/iyunun-7-de-kecirilmis-qebul-imtahaninin-neticesi-elan-olunub-16-neferin-neticeleri-legv-edilib-975982",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c0b045be176a3c0b045be1817823198766a3c0b045be156a3c0b045be16.jfif",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 20:50"
-    },
-    {
         "baslik": "Daha bir ölkədə sosial mediadan istifadə üçün minimum yaş həddi təklif edilir",
         "link": "https://az.trend.az/other/world/4201375.html",
         "resim": "https://az.trend.az/media/2026/04/03/trend_social_media_-_children.jpg",
         "kaynak": "Trend",
         "zaman": "24.06.2026 | 20:48"
-    },
-    {
-        "baslik": "Zelenski: Belarusda Rusiya dronları üçün istifadə edilən retranslyatorlar, Lukaşenkoya ünvanlanan ultimatumdan sonra fəaliyyətini dayandırıb",
-        "link": "https://apa.az/europe/zelenski-belarusda-rusiya-dronlari-ucun-istifade-edilen-retranslyatorlar-lukasenkoya-unvanlanan-ultimatumdan-sonra-fealiyyetini-dayandirib-975979",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c0a53841d06a3c0a53841d117823196996a3c0a53841cc6a3c0a53841ce.webp",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 20:47"
-    },
-    {
-        "baslik": "ABŞ yeddi şəxsi və iki gəmini Rusiya ilə bağlı sanksiyalar siyahısından çıxarıb",
-        "link": "https://apa.az/america/abs-yeddi-sexsi-ve-iki-gemini-rusiya-ile-bagli-sanksiyalar-siyahisindan-cixarib-975976",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c06dd0ef956a3c06dd0ef9617823188136a3c06dd0ef926a3c06dd0ef94.jpg",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 20:42"
     },
     {
         "baslik": "Rumıniyada Moldova ilə birləşməni nəzərdə tutan qanunvericilik təşəbbüsü təsdiqləndi",
@@ -96,55 +145,6 @@
         "resim": "https://az.trend.az/media/2026/06/08/trend_imtahan_qebul.jpg",
         "kaynak": "Trend",
         "zaman": "24.06.2026 | 20:25"
-    },
-    {
-        "baslik": "Avropada temperatur rekordları qırılır",
-        "link": "https://az.trend.az/other/world/4201366.html",
-        "resim": "https://az.trend.az/media/2025/07/10/istiler.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.06.2026 | 20:23"
-    },
-    {
-        "baslik": "Bank kartlarında problem niyə baş verib? - Mərkəzi Bankdan AÇIQLAMA",
-        "link": "https://az.trend.az/business/4201368.html",
-        "resim": "https://az.trend.az/media/2026/04/14/trend_pensiya_kart_bank_bankomat.png",
-        "kaynak": "Trend",
-        "zaman": "24.06.2026 | 20:20"
-    },
-    {
-        "baslik": "AMB əhaliyə müraciət edib: Bank hesablarından vəsaitlərin təkrar silinməsi kibermüdaxilə deyil, texniki nasazlıq aradan qaldırılıb",
-        "link": "https://apa.az/finance/amb-ehaliye-muraciet-edib-bank-hesablarindan-vesaitlerin-tekrar-silinmesi-kibermudaxile-deyil-texniki-nasazliq-aradan-qaldirilib-975975",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3c023e89e146a3c023e89e1517823176306a3c023e89e126a3c023e89e13.jpg",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 20:10"
-    },
-    {
-        "baslik": "ADY Bakı-Tbilisi-Bakı marşrutu üzrə turizm şirkətləri ilə əməkdaşlıq edə bilərmi? - RƏY",
-        "link": "https://az.trend.az/business/4201360.html",
-        "resim": "https://az.trend.az/media/2026/06/24/dasd.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.06.2026 | 20:10"
-    },
-    {
-        "baslik": "Sahibə Qafarova Məhəmməd Baqer Qalibaf ilə görüşüb (FOTO)",
-        "link": "https://az.trend.az/azerbaijan/politics/4201363.html",
-        "resim": "https://az.trend.az/media/2026/06/24/qalibaf_1.jpg",
-        "kaynak": "Trend",
-        "zaman": "24.06.2026 | 20:07"
-    },
-    {
-        "baslik": "DÇ-2026: Son tura start verilir",
-        "link": "https://apa.az/football/dc-2026-son-tura-start-verilir-975959",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3bf299c090d6a3bf299c090e17823136256a3bf299c090b6a3bf299c090c.jfif",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 19:55"
-    },
-    {
-        "baslik": "Əraqçi Səudiyyə Ərəbistanı XİN rəhbəri ilə ABŞ-la danışıqları müzakirə edib",
-        "link": "https://apa.az/asia/eraqci-seudiyye-erebistani-xin-rehberi-ile-abs-la-danisiqlari-muzakire-edib-975968",
-        "resim": "https://apa.az/storage/news/2026/june/24/resize/6a3bf88af05146a3bf88af051517823151466a3bf88af05126a3bf88af0513.jfif",
-        "kaynak": "APA",
-        "zaman": "24.06.2026 | 19:48"
     },
     {
         "baslik": "Benzinsiz yay. Yanacaq problemləri onlarla Rusiya regionuna təsir edib",
