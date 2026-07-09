@@ -1,5 +1,33 @@
 [
     {
+        "baslik": "WSJ: İranın ABŞ bazalarına bəzi zərbələri hədəfə çatıb",
+        "link": "https://apa.az/asia/wsj-iranin-abs-bazalarina-bezi-zerbeleri-hedefe-catib-980199",
+        "resim": "https://apa.az/storage/news/2026/july/10/resize/6a5011db5f1e56a5011db5f1e617836323476a5011db5f1e16a5011db5f1e4.jpg",
+        "kaynak": "APA",
+        "zaman": "10.07.2026 | 01:25"
+    },
+    {
+        "baslik": "Bundestaq Ukraynaya \"Taurus\" və \"Patriot\" tədarükü təklifini rədd edib",
+        "link": "https://apa.az/europe/bundestaq-ukraynaya-taurus-ve-patriot-tedaruku-teklifini-redd-edib-980196",
+        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4ff95dc22b06a4ff95dc22b117836260776a4ff95dc22ae6a4ff95dc22af.jpg",
+        "kaynak": "APA",
+        "zaman": "10.07.2026 | 00:58"
+    },
+    {
+        "baslik": "Zaqatala sakinləri sel səbəbindən içməli susuz qalıb - FOTO",
+        "link": "https://apa.az/social/zaqatala-sakinleri-sel-sebebinden-icmeli-susuz-qalib-foto-980197",
+        "resim": "https://apa.az/storage/news/2026/july/10/resize/6a500a17d678b6a500a17d678c17836303586a500a17d67896a500a17d678a.jpeg",
+        "kaynak": "APA",
+        "zaman": "10.07.2026 | 00:53"
+    },
+    {
+        "baslik": "Merz: İsrailin İordan çayının qərb sahilinin ilhaqına yönələn addımları yolverilməzdir",
+        "link": "https://apa.az/europe/merz-israilin-iordan-cayinin-qerb-sahilinin-ilhaqina-yonelen-addimlari-yolverilmezdir-980194",
+        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4ff8a96cdf86a4ff8a96cdf917836258976a4ff8a96cdf46a4ff8a96cdf6.webp",
+        "kaynak": "APA",
+        "zaman": "10.07.2026 | 00:37"
+    },
+    {
         "baslik": "Oman və İran XİN başçıları Hörmüz boğazında sərbəst gəmiçiliyi müzakirə edib",
         "link": "https://apa.az/asia/oman-ve-iran-xin-bascilari-hormuz-bogazinda-serbest-gemiciliyi-muzakire-edib-980191",
         "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4ff8289b1606a4ff8289b16117836257686a4ff8289b15e6a4ff8289b15f.jpeg",
@@ -40,34 +68,6 @@
         "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4ff049834d36a4ff049834d417836237536a4ff049834d16a4ff049834d2.jpg",
         "kaynak": "APA",
         "zaman": "09.07.2026 | 22:57"
-    },
-    {
-        "baslik": "Çexiyada 5,5 bal gücündə zəlzələ baş verib",
-        "link": "https://apa.az/europe/cexiyada-55-bal-gucunde-zelzele-bas-verib-980182",
-        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4fe9763230d6a4fe9763230e17836220066a4fe9763230b6a4fe9763230c.jpg",
-        "kaynak": "APA",
-        "zaman": "09.07.2026 | 22:28"
-    },
-    {
-        "baslik": "Avropa Liqası: “Qarabağ” İslandiyanın “Vestri” komandasını məğlub edib",
-        "link": "https://apa.az/football/avropa-liqasi-qarabag-islandiyanin-vestri-komandasini-meglub-edib-980179",
-        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4fe152a9b366a4fe152a9b3717836199226a4fe152a9b346a4fe152a9b35.webp",
-        "kaynak": "APA",
-        "zaman": "09.07.2026 | 21:57"
-    },
-    {
-        "baslik": "Katz: İsrail ordusu İrana qarşı əməliyyatı bərpa etməyə hazırdır",
-        "link": "https://apa.az/asia/katz-israil-ordusu-irana-qarsi-emeliyyati-berpa-etmeye-hazirdir-980178",
-        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4fd88b729dd6a4fd88b729de17836176756a4fd88b729da6a4fd88b729dc.webp",
-        "kaynak": "APA",
-        "zaman": "09.07.2026 | 21:32"
-    },
-    {
-        "baslik": "“28 May” metrostansiyasında eskalatorlardan biri təmirə dayandırılacaq",
-        "link": "https://apa.az/social/28-may-metrostansiyasinda-eskalatorlardan-biri-temire-dayandirilacaq-980177",
-        "resim": "https://apa.az/storage/news/2026/july/09/resize/6a4fd7924031e6a4fd7924031f17836174266a4fd7924031c6a4fd7924031d.webp",
-        "kaynak": "APA",
-        "zaman": "09.07.2026 | 21:18"
     },
     {
         "baslik": "Sel Meşleş kəndinə gedən yolu yuyub apardı",
