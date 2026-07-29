@@ -1,5 +1,68 @@
 [
     {
+        "baslik": "Mərkəzi Bankın sədri: Neft 45 dollara düşsə belə Azərbaycanın tədiyə balansı profisitdə qalacaq",
+        "link": "https://apa.az/finance/merkezi-bankin-sedri-neft-45-dollara-dusse-bele-azerbaycanin-tediye-balansi-profisitde-qalacaq-985277",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a69f60999a506a69f60999a5117853291616a69f60999a4d6a69f60999a4f.jpeg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 21:30"
+    },
+    {
+        "baslik": "AMB sədri: İnflyasiyanı əsasən idxal edirik",
+        "link": "https://apa.az/finance/amb-sedri-inflyasiyani-esasen-idxal-edirik-985289",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a69f3f185ab46a69f3f185ab517853286256a69f3f185ab26a69f3f185ab3.jpg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 21:20"
+    },
+    {
+        "baslik": "Fransada meşə yanğınları ilə bağlı 263 nəfər saxlanılıb",
+        "link": "https://apa.az/europe/fransada-mese-yanginlari-ile-bagli-263-nefer-saxlanilib-985399",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a358bc1e756a6a358bc1e7617853454196a6a358bc1e736a6a358bc1e74.webp",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 21:15"
+    },
+    {
+        "baslik": "Taleh Kazımov: Manatın məzənnəsini dəyişmək üçün fundamental əsas yoxdur",
+        "link": "https://apa.az/finance/taleh-kazimov-manatin-mezennesini-deyismek-ucun-fundamental-esas-yoxdur-985305",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a69f74bb91d06a69f74bb922417853294836a69f74bb91cc6a69f74bb91ce.jpg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 21:10"
+    },
+    {
+        "baslik": "Mərkəzi Bankın sədri: Makroiqtisadi sabitliyə ciddi risk görmürük - MÜSAHİBƏ",
+        "link": "https://apa.az/finance/merkezi-bankin-sedri-makroiqtisadi-sabitliye-ciddi-risk-gormuruk-musahibe-985246",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a69f15c0b4c86a69f15c0b4c917853279626a69f15c0b4c66a69f15c0b4c7.jpg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 21:00"
+    },
+    {
+        "baslik": "Qazaxıstan XİN başçısı Rubio ilə Xəzər Boru Kəməri Konsorsiumunun infrastrukturuna hücumları müzakirə edib",
+        "link": "https://apa.az/asia/qazaxistan-xin-bascisi-rubio-ile-xezer-boru-kemeri-konsorsiumunun-infrastrukturuna-hucumlari-muzakire-edib-985397",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a2f26949306a6a2f269493117853437826a6a2f269492e6a6a2f269492f.png",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 20:49"
+    },
+    {
+        "baslik": "Paşinyan: Ermənistanın Aİ-yə üzvlüyü ilə bağlı referendum hələ gündəmdə deyil",
+        "link": "https://apa.az/cis-countries/pasinyan-ermenistanin-ai-ye-uzvluyu-ile-bagli-referendum-hele-gundemde-deyil-985393",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a2951a478f6a6a2951a479017853422896a6a2951a478d6a6a2951a478e.jpg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 20:23"
+    },
+    {
+        "baslik": "Beynəlxalq təşkilatlar jurnalistlərin həbsini pisləyib",
+        "link": "https://www.bbc.com/azeri/articles/cx254p702lpo?at_medium=RSS&at_campaign=rss",
+        "resim": "",
+        "kaynak": "BBC Azərbaycanca",
+        "zaman": "29.07.2026 | 16:11"
+    },
+    {
+        "baslik": "Esmira Cəfərova Azərbaycanın Macarıstanda səfiri təyin olunub",
+        "link": "https://apa.az/official-news/esmira-ceferova-azerbaycanin-macaristanda-sefiri-teyin-olunub-985390",
+        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a25968dca16a6a25968dca217853413346a6a25968dc9f6a6a25968dca0.jpg",
+        "kaynak": "APA",
+        "zaman": "29.07.2026 | 20:07"
+    },
+    {
         "baslik": "Qalib İsrafilov Azərbaycanın BMT-nin Cenevrədəki bölməsindəki daimi nümayəndəsi vəzifəsindən geri çağırılıb",
         "link": "https://apa.az/official-news/qalib-israfilov-azerbaycanin-bmt-nin-cenevredeki-bolmesindeki-daimi-numayendesi-vezifesinden-geri-cagirilib-985387",
         "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a24db7ea446a6a24db7ea4517853411476a6a24db7ea426a6a24db7ea43.jpg",
@@ -12,62 +75,6 @@
         "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a2448146636a6a24481466417853410006a6a2448146616a6a244814662.jpg",
         "kaynak": "APA",
         "zaman": "29.07.2026 | 19:58"
-    },
-    {
-        "baslik": "UEFA: FİFA özünü və dostlarını zənginləşdirmək üçün futbolumuzdan istifadə edə bilməz - AÇIQLAMA",
-        "link": "https://apa.az/football/uefa-fifa-ozunu-ve-dostlarini-zenginlesdirmek-ucun-futbolumuzdan-istifade-ede-bilmez-aciqlama-985377",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a228abcd676a6a228abcd6817853405546a6a228abcd626a6a228abcd65.jpg",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:53"
-    },
-    {
-        "baslik": "CENTCOM: ABŞ ordusu 1000-ə yaxın gəminin Hörmüz boğazından təhlükəsiz keçidini təmin edib",
-        "link": "https://apa.az/asia/centcom-abs-ordusu-1000-e-yaxin-geminin-hormuz-bogazindan-tehlukesiz-kecidini-temin-edib-985372",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a2079a89846a6a2079a898517853400256a6a2079a89826a6a2079a8983.png",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:49"
-    },
-    {
-        "baslik": "FT: ABŞ və Fransa kəşfiyyatı Ukraynanın Rusiyaya dron zərbələrini planlaşdırmasına kömək edib",
-        "link": "https://apa.az/europe/ft-abs-ve-fransa-kesfiyyati-ukraynanin-rusiyaya-dron-zerbelerini-planlasdirmasina-komek-edib-985371",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a1ee0656f26a6a1ee0656f317853396166a6a1ee0656f06a6a1ee0656f1.png",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:41"
-    },
-    {
-        "baslik": "Azərbaycanın Serbiyadakı səfiri geri çağırılıb, Avstriyaya təyin olunub",
-        "link": "https://apa.az/official-news/azerbaycanin-serbiyadaki-sefiri-geri-cagirilib-avstriyaya-teyin-olunub-985382",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a240feab2f6a6a240feab3017853409436a6a240feab2d6a6a240feab2e.webp",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:40"
-    },
-    {
-        "baslik": "Azərbaycanın Avstriyadakı səfiri geri çağırılıb, BMT-nin Cenevrə bölməsinə daimi nümayəndə təyin edilib",
-        "link": "https://apa.az/official-news/azerbaycanin-avstriyadaki-sefiri-geri-cagirilib-bmt-nin-cenevre-bolmesine-daimi-numayende-teyin-edilib-985375",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a2254e6c286a6a2254e6c2917853405006a6a2254e6c266a6a2254e6c27.jpg",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:34"
-    },
-    {
-        "baslik": "Şəmkirdə yeniyetmə Kürdə boğulma təhlükəsi ilə üzləşib, vəziyyəti ağırdır",
-        "link": "https://apa.az/incident/semkirde-yeniyetme-kurde-bogulma-tehlukesi-ile-uzlesib-veziyyeti-agirdir-985369",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a1a6402e6b6a6a1a6402e6c1785338468ec248798187ec01c372c1da6c96a7a7b.jpg",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:21"
-    },
-    {
-        "baslik": "Azərbaycan güləş üzrə dünya çempionatında daha bir medal qazanıb",
-        "link": "https://apa.az/fighting-sports/azerbaycan-gules-uzre-dunya-cempionatinda-daha-bir-medal-qazanib-985370",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a1abf561496a6a1abf5614a17853385596a6a1abf561476a6a1abf56148.jpg",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:21"
-    },
-    {
-        "baslik": "Zaqatalada bir ailənin dörd üzvü yol qəzasında xəsarət alıb",
-        "link": "https://apa.az/incident/zaqatalada-bir-ailenin-dord-uzvu-yol-qezasinda-xesaret-alib-985368",
-        "resim": "https://apa.az/storage/news/2026/july/29/resize/6a6a1861a80fc6a6a1861a80fd17853379534cd74aa31ddb2bba08dfe0229b62fdc7.jpg",
-        "kaynak": "APA",
-        "zaman": "29.07.2026 | 19:12"
     },
     {
         "baslik": "İran Hörmüz boğazı məsələsində niyə bu qədər böyük riskə gedir?",
@@ -131,12 +138,5 @@
         "resim": "",
         "kaynak": "BBC Azərbaycanca",
         "zaman": "23.07.2026 | 16:12"
-    },
-    {
-        "baslik": "Saçınızı gündə neçə dəfə və necə daramalısınız?",
-        "link": "https://www.bbc.com/azeri/articles/cly891xve7po?at_medium=RSS&at_campaign=rss",
-        "resim": "",
-        "kaynak": "BBC Azərbaycanca",
-        "zaman": "23.07.2026 | 13:52"
     }
 ]
