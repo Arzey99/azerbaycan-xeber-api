@@ -1,5 +1,40 @@
 [
     {
+        "baslik": "İran Azərbaycanında yeni mədənlərdə qızıl istehsalı başlayıb",
+        "link": "https://www.bbc.com/azeri/articles/czdmr7z403qo?at_medium=RSS&at_campaign=rss",
+        "resim": "",
+        "kaynak": "BBC Azərbaycanca",
+        "zaman": "04.08.2026 | 15:55"
+    },
+    {
+        "baslik": "İran və Oman arasında Hörmüz boğazı üzrə danışıqlar yeni mərhələyə daxil olub",
+        "link": "https://apa.az/asia/iran-ve-oman-arasinda-hormuz-bogazi-uzre-danisiqlar-yeni-merheleye-daxil-olub-986883",
+        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a720816964006a7208169640117858580706a720816963fe6a720816963ff.webp",
+        "kaynak": "APA",
+        "zaman": "04.08.2026 | 19:41"
+    },
+    {
+        "baslik": "Zelenski: Ukrayna Avropa İttifaqına tamhüquqlu üzv olmağa çalışır",
+        "link": "https://apa.az/europe/zelenski-ukrayna-avropa-ittifaqina-tamhuquqlu-uzv-olmaga-calisir-986881",
+        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a72058bf02936a72058bf0294178585741921566b1667ce7e539bc1b08e3358e6a3.jpg",
+        "kaynak": "APA",
+        "zaman": "04.08.2026 | 19:29"
+    },
+    {
+        "baslik": "“Bloomberg”: Səudiyyə Ərəbistanı husilərlə danışıqlar aparır",
+        "link": "https://apa.az/asia/bloomberg-seudiyye-erebistani-husilerle-danisiqlar-aparir-986879",
+        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a72020c9b3546a72020c9b35517858565246a72020c9b3526a72020c9b353.jpg",
+        "kaynak": "APA",
+        "zaman": "04.08.2026 | 19:16"
+    },
+    {
+        "baslik": "Naxçıvanda yol qəzasında 3 nəfər xəsarət alıb - FOTO",
+        "link": "https://apa.az/incident/naxcivanda-yol-qezasinda-3-nefer-xesaret-alib-foto-986876",
+        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71fa1cee6aa6a71fa1cee6ab17858544926a71fa1cee6a86a71fa1cee6a9.jpg",
+        "kaynak": "APA",
+        "zaman": "04.08.2026 | 18:44"
+    },
+    {
         "baslik": "ADY dəmir yollarında təhlükəsizlik zonasının mühafizəsini gücləndirəcək",
         "link": "https://apa.az/infrastructure/ady-demir-yollarinda-tehlukesizlik-zonasinin-muhafizesini-guclendirecek-986875",
         "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71f480695796a71f4806957a17858530566a71f480695776a71f48069578.webp",
@@ -42,34 +77,6 @@
         "zaman": "04.08.2026 | 17:46"
     },
     {
-        "baslik": "Tehran yaxınlığında yanğın olub, 18 nəfər xəsarət alıb",
-        "link": "https://apa.az/asia/tehran-yaxinliginda-yangin-olub-18-nefer-xesaret-alib-986861",
-        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71ead283f326a71ead283f3317858505786a71ead283f306a71ead283f31.png",
-        "kaynak": "APA",
-        "zaman": "04.08.2026 | 17:39"
-    },
-    {
-        "baslik": "\"Reuters\": ABŞ İranla müharibədə yüksək dəqiqlikli uzaqmənzilli raketlərin, demək olar, hamısını istifadə edib",
-        "link": "https://apa.az/america/reuters-abs-iranla-muharibede-yuksek-deqiqlikli-uzaqmenzilli-raketlerin-demek-olar-hamisini-istifade-edib-986855",
-        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71e5f112ffe6a71e5f112fff17858493296a71e5f112ffc6a71e5f112ffd.png",
-        "kaynak": "APA",
-        "zaman": "04.08.2026 | 17:25"
-    },
-    {
-        "baslik": "Ötən ay 11 aptekdə nöqsan aşkarlanıb",
-        "link": "https://apa.az/incident/oten-ay-11-aptekde-noqsan-askarlanib-986858",
-        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71e6d3bfbd26a71e6d3bfbd31785849555ec51eb94d925918b0f12a82e713457f4.jpg",
-        "kaynak": "APA",
-        "zaman": "04.08.2026 | 17:19"
-    },
-    {
-        "baslik": "İraq neftini daşıyan tankerlər Hörmüz boğazından keçməyə başlayıb",
-        "link": "https://apa.az/asia/iraq-neftini-dasiyan-tankerler-hormuz-bogazindan-kecmeye-baslayib-986852",
-        "resim": "https://apa.az/storage/news/2026/august/04/resize/6a71df2d175196a71df2d1751a17858475976a71df2d175176a71df2d17518.png",
-        "kaynak": "APA",
-        "zaman": "04.08.2026 | 17:08"
-    },
-    {
         "baslik": "Rusiya deyir ki, Ukraynanın dron hücumunda yeddi nəfər ölüb, 40-dan çox yaralı var",
         "link": "https://www.bbc.com/azeri/articles/c0rdpgn791do?at_medium=RSS&at_campaign=rss",
         "resim": "",
@@ -82,13 +89,6 @@
         "resim": "",
         "kaynak": "BBC Azərbaycanca",
         "zaman": "03.08.2026 | 15:48"
-    },
-    {
-        "baslik": "İran Azərbaycanında qadınlara qarşı \"şiddət artıb\"",
-        "link": "https://www.bbc.com/azeri/articles/c2dkndw2rrlo?at_medium=RSS&at_campaign=rss",
-        "resim": "",
-        "kaynak": "BBC Azərbaycanca",
-        "zaman": "03.08.2026 | 11:41"
     },
     {
         "baslik": "Rauf Arifoğlu: \"İlham Əliyev tənqidə çox dözümlüdür\"",
