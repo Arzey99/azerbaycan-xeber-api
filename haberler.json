@@ -1,5 +1,131 @@
 [
     {
+        "baslik": "Gəncədə 44 yaşlı kişi bıçaqlanıb",
+        "link": "https://apa.az/incident/gencede-44-yasli-kisi-bicaqlanib-988541",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b7aa8e68a16a7b7aa8e68a217864772246a7b7aa8e689f6a7b7aa8e68a0.webp",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 23:40"
+    },
+    {
+        "baslik": "Almaniyada yeni rəy sorğusu: İfrat sağçı AfD CDU-dan 8 faiz öndədir",
+        "link": "https://azertag.az/xeber/almaniyada_yeni_rey_sorgusu_ifrat_sagchi_afd_cdu_dan_8_faiz_ondedir-4362405",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:30"
+    },
+    {
+        "baslik": "\"Sabah\"ın futbolçusu: Meydanda böyük iradə və əzm nümayiş etdirdik",
+        "link": "https://azertag.az/xeber/_quotsabah_quotin_futbolchusu_meydanda_boyuk_irade_ve_ezm_numayis_etdirdik-4362369",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:22"
+    },
+    {
+        "baslik": "Valdas Dambrauskas: Futbolçularım inanılmaz oyun nümayiş etdirdilər",
+        "link": "https://azertag.az/xeber/valdas_dambrauskas_futbolchularim_inanilmaz_oyun_numayis_etdirdiler-4362345",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:16"
+    },
+    {
+        "baslik": "İsveçdə nadir astronomik gecə: Sakinlər eyni axşam iki möhtəşəm səma hadisəsi izləyəcəklər",
+        "link": "https://azertag.az/xeber/isvechde_nadir_astronomik_gece_sakinler_eyni_axsam_iki_mohtesem_sema_hadisesi_izleyecekler-4362341",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:15"
+    },
+    {
+        "baslik": "Prezident İlham Əliyevin sosial media hesablarında Naxçıvan səfəri ilə bağlı videoçarx paylaşılıb VİDEO",
+        "link": "https://azertag.az/xeber/prezident_ilham_aliyevin_sosial_media_hesablarinda_naxchivan_seferi_ile_bagli_videocharx_paylasilib_video-4362333",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:11"
+    },
+    {
+        "baslik": "“Milli irs və sənətkarlıq ənənələri” - Zaqatalada maraqla izlənən sərgi",
+        "link": "https://azertag.az/xeber/milli_irs_ve_senetkarliq_eneneleri___zaqatalada_maraqla_izlenen_sergi-4362317",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:07"
+    },
+    {
+        "baslik": "Prezident İlham Əliyev: Qarabağda və Şərqi Zəngəzurda yeni idarəetmə sisteminin üstünlüklərini gördük",
+        "link": "https://apa.az/official-news/prezident-ilham-eliyev-qarabagda-ve-serqi-zengezurda-yeni-idareetme-sisteminin-ustunluklerini-gorduk-988539",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b728fccef86a7b728fccef917864751516a7b728fccef66a7b728fccef7.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 23:05"
+    },
+    {
+        "baslik": "Prezident: Naxçıvan, Şərqi Zəngəzur, Qarabağ vahid konsepsiya əsasında inkişaf etməlidir",
+        "link": "https://apa.az/official-news/prezident-naxcivan-serqi-zengezur-qarabag-vahid-konsepsiya-esasinda-inkisaf-etmelidir-988537",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b725e51fe16a7b725e51fe217864751026a7b725e51fdf6a7b725e51fe0.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 23:04"
+    },
+    {
+        "baslik": "Prezident İlham Əliyev: Qarabağda və Şərqi Zəngəzurda yeni idarəetmə sisteminin üstünlüklərini gördük",
+        "link": "https://azertag.az/xeber/prezident_ilham_aliyev_qarabagda_ve_serqi_zengezurda_yeni_idareetme_sisteminin_ustunluklerini_gorduk-4362313",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 23:03"
+    },
+    {
+        "baslik": "Ordubad rayonunda su elektrik stansiyasının tikintisi nəzərdə tutulur",
+        "link": "https://apa.az/official-news/ordubad-rayonunda-su-elektrik-stansiyasinin-tikintisi-nezerde-tutulur-988536",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b70bfee5966a7b70bfee59717864746876a7b70bfee5946a7b70bfee595.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 22:57"
+    },
+    {
+        "baslik": "Prezident İlham Əliyev: Naxçıvan əvəzolunmaz nəqliyyat mərkəzlərinin birinə çevriləcək",
+        "link": "https://apa.az/official-news/prezident-ilham-eliyev-naxcivan-evezolunmaz-neqliyyat-merkezlerinin-birine-cevrilecek-988534",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b705ce8ab06a7b705ce8ab117864745886a7b705ce8aad6a7b705ce8aaf.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 22:56"
+    },
+    {
+        "baslik": "Azərbaycan Prezidenti: Biz Avropaya elektrik enerjisi ilə də çıxmaq istəyirik",
+        "link": "https://apa.az/official-news/azerbaycan-prezidenti-biz-avropaya-elektrik-enerjisi-ile-de-cixmaq-isteyirik-988535",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b70860c52e6a7b70860c52f17864746306a7b70860c52c6a7b70860c52d.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 22:56"
+    },
+    {
+        "baslik": "Prezident: Azərbaycandan Naxçıvana Ermənistan ərazisindən elektrik xətlərinin çəkilməsi layihəsi hazırdır",
+        "link": "https://apa.az/official-news/prezident-azerbaycandan-naxcivana-ermenistan-erazisinden-elektrik-xetlerinin-cekilmesi-layihesi-hazirdir-988532",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6f7c6ce3b6a7b6f7c6ce3c17864743646a7b6f7c6ce396a7b6f7c6ce3a.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 22:52"
+    },
+    {
+        "baslik": "Prezident: Naxçıvan, Şərqi Zəngəzur, Qarabağ vahid konsepsiya əsasında inkişaf etməlidir",
+        "link": "https://azertag.az/xeber/prezident_naxchivan_serqi_zengezur_qarabag_vahid_konsepsiya_esasinda_inkisaf_etmelidir-4362289",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 22:46"
+    },
+    {
+        "baslik": "Prezidentin sosial media hesablarında Naxçıvan səfəri ilə bağlı videoçarx paylaşılıb - VİDEO",
+        "link": "https://apa.az/official-news/prezidentin-sosial-media-hesablarinda-naxcivan-seferi-ile-bagli-videocarx-paylasilib-video-988530",
+        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6f0688aa26a7b6f0688aa317864742466a7b6f0688aa06a7b6f0688aa1.jpg",
+        "kaynak": "APA",
+        "zaman": "11.08.2026 | 22:45"
+    },
+    {
+        "baslik": "Ordubad rayonunda su elektrik stansiyasının tikintisi nəzərdə tutulur",
+        "link": "https://azertag.az/xeber/ordubad_rayonunda_su_elektrik_stansiyasinin_tikintisi_nezerde_tutulur-4362261",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 22:43"
+    },
+    {
+        "baslik": "Prezident: Azərbaycandan Naxçıvana Ermənistan ərazisindən elektrik xətlərinin çəkilməsi layihəsi hazırdır",
+        "link": "https://azertag.az/xeber/prezident_azerbaycandan_naxchivana_ermenistan_erazisinden_elektrik_xetlerinin_chekilmesi_layihesi_hazirdir-4362249",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "11.08.2026 | 22:41"
+    },
+    {
         "baslik": "Prezident: Bir çox beynəlxalq qurum Azərbaycan dəmir yollarının Naxçıvan seqmentinə maraq göstərir",
         "link": "https://apa.az/official-news/prezident-bir-cox-beynelxalq-qurum-azerbaycan-demir-yollarinin-naxcivan-seqmentine-maraq-gosterir-988529",
         "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6bec27b9d6a7b6bec27b9e17864734526a7b6bec27b9b6a7b6bec27b9c.jpg",
@@ -12,132 +138,6 @@
         "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6bbd8c0b06a7b6bbd8c0b117864734056a7b6bbd8c0ae6a7b6bbd8c0af.jpg",
         "kaynak": "APA",
         "zaman": "11.08.2026 | 22:36"
-    },
-    {
-        "baslik": "Azərbaycan Prezidenti: Zəngəzur dəhlizinin yaradılması bizim təşəbbüsümüz olub",
-        "link": "https://apa.az/official-news/azerbaycan-prezidenti-zengezur-dehlizinin-yaradilmasi-bizim-tesebbusumuz-olub-988526",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6b92dd8356a7b6b92dd83617864733626a7b6b92dd8336a7b6b92dd834.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:35"
-    },
-    {
-        "baslik": "Prezident İlham Əliyev: Naxçıvan Azərbaycan xalqına dahi şəxsiyyət Heydər Əliyev kimi Ulu Öndər bəxş edib",
-        "link": "https://apa.az/official-news/prezident-ilham-eliyev-naxcivan-azerbaycan-xalqina-dahi-sexsiyyet-heyder-eliyev-kimi-ulu-onder-bexs-edib-988524",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6b657d51a6a7b6b657d51b17864733176a7b6b657d5186a7b6b657d519.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:34"
-    },
-    {
-        "baslik": "Prezident: Bir çox beynəlxalq qurum Azərbaycan dəmir yollarının Naxçıvan seqmentinə maraq göstərir",
-        "link": "https://azertag.az/xeber/prezident_bir_chox_beynelxalq_qurum_azerbaycan_demir_yollarinin_naxchivan_seqmentine_maraq_gosterir-4362201",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:34"
-    },
-    {
-        "baslik": "Prezident: Günəş elektrik enerjisinin istehsalı üçün Azərbaycan ərazisində ən əlverişli məkan Naxçıvandır",
-        "link": "https://apa.az/official-news/prezident-gunes-elektrik-enerjisinin-istehsali-ucun-azerbaycan-erazisinde-en-elverisli-mekan-naxcivandir-988521",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6b01832036a7b6b018320417864732176a7b6b01832016a7b6b0183202.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:33"
-    },
-    {
-        "baslik": "Prezident: Azərbaycan yerləşdiyimiz regionda elektrik enerjisi ilə problemi olmayan nadir ölkələr sırasında birincidir",
-        "link": "https://apa.az/official-news/prezident-azerbaycan-yerlesdiyimiz-regionda-elektrik-enerjisi-ile-problemi-olmayan-nadir-olkeler-sirasinda-birincidir-988518",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6aba2b7546a7b6aba2b75517864731466a7b6aba2b7526a7b6aba2b753.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:32"
-    },
-    {
-        "baslik": "Prezident: Horadiz–Ağbənd avtomobil yolu demək olar hazırdır",
-        "link": "https://azertag.az/xeber/prezident_horadiz_agbend_avtomobil_yolu_demek_olar_hazirdir-4362185",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:32"
-    },
-    {
-        "baslik": "Azərbaycan Prezidenti: Naxçıvan Muxtar Respublikası hərtərəfli inkişaf edir",
-        "link": "https://apa.az/official-news/azerbaycan-prezidenti-naxcivan-muxtar-respublikasi-herterefli-inkisaf-edir-988515",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6a8f5565b6a7b6a8f5565c17864731036a7b6a8f556596a7b6a8f5565a.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:31"
-    },
-    {
-        "baslik": "Prezident İlham Əliyev: Azərbaycan Silahlı Qüvvələri bölgədə söz sahibidir",
-        "link": "https://apa.az/official-news/prezident-ilham-eliyev-azerbaycan-silahli-quvveleri-bolgede-soz-sahibidir-988513",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6a6a7fac56a7b6a6a7fac617864730666a7b6a6a7fac36a7b6a6a7fac4.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:30"
-    },
-    {
-        "baslik": "Azərbaycan Prezidenti: Zəngəzur dəhlizinin yaradılması bizim təşəbbüsümüz olub",
-        "link": "https://azertag.az/xeber/azerbaycan_prezidenti_zengezur_dehlizinin_yaradilmasi_bizim_tesebbusumuz_olub-4362169",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:30"
-    },
-    {
-        "baslik": "\"Orxus\"un baş məşqçisi: \"Sabah\" növbəti mərhələyə yüksəlməyə layiq idi",
-        "link": "https://azertag.az/xeber/_quotorxus_quotun_bas_mesqchisi__quotsabah_quot_novbeti_merheleye_yukselmeye_layiq_idi-4362153",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:30"
-    },
-    {
-        "baslik": "Prezident İlham Əliyev Naxçıvanda Azərbaycan Televiziyasına müsahibə verib - FOTO",
-        "link": "https://apa.az/official-news/prezident-ilham-eliyev-naxcivanda-azerbaycan-televiziyasina-musahibe-verib-foto-988510",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b6a2d516ec6a7b6a2d516ed17864730056a7b6a2d516e96a7b6a2d516ea.jpg",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:29"
-    },
-    {
-        "baslik": "Prezident İlham Əliyev: Naxçıvan Azərbaycan xalqına dahi şəxsiyyət Heydər Əliyev kimi Ulu Öndər bəxş edib",
-        "link": "https://azertag.az/xeber/prezident_ilham_aliyev_naxchivan_azerbaycan_xalqina_dahi_sexsiyyet_heydar_aliyev_kimi_ulu_onder_bexs_edib-4362137",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:28"
-    },
-    {
-        "baslik": "Prezident: Günəş elektrik enerjisinin istehsalı üçün Azərbaycan ərazisində ən əlverişli məkan Naxçıvandır",
-        "link": "https://azertag.az/xeber/prezident_gunes_elektrik_enerjisinin_istehsali_uchun_azerbaycan_erazisinde_en_elverisli_mekan_naxchivandir-4362129",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:27"
-    },
-    {
-        "baslik": "Lənkəranda açıq sahədə yanğın başlayıb",
-        "link": "https://azertag.az/xeber/lenkeranda_achiq_sahede_yangin_baslayib-4362125",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:27"
-    },
-    {
-        "baslik": "Vaşinqtonda Azərbaycan, Ermənistan və ABŞ rəsmilərinin görüşü keçirilib",
-        "link": "https://apa.az/foreign-policy/vasinqtonda-azerbaycan-ermenistan-ve-abs-resmilerinin-gorusu-kecirilib-988507",
-        "resim": "https://apa.az/storage/news/2026/august/11/resize/6a7b696f7f81b6a7b696f7f81c17864728156a7b696f7f8176a7b696f7f819.webp",
-        "kaynak": "APA",
-        "zaman": "11.08.2026 | 22:25"
-    },
-    {
-        "baslik": "Prezident: Azərbaycan yerləşdiyimiz regionda elektrik enerjisi ilə problemi olmayan nadir ölkələr sırasında birincidir",
-        "link": "https://azertag.az/xeber/prezident_azerbaycan_yerlesdiyimiz_regionda_elektrik_enerjisi_ile_problemi_olmayan_nadir_olkeler_sirasinda_birincidir-4362101",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:25"
-    },
-    {
-        "baslik": "Azərbaycan Prezidenti: Naxçıvan Muxtar Respublikası hərtərəfli inkişaf edir",
-        "link": "https://azertag.az/xeber/azerbaycan_prezidenti_naxchivan_muxtar_respublikasi_herterefli_inkisaf_edir-4362093",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:23"
-    },
-    {
-        "baslik": "Prezident İlham Əliyev: Azərbaycan Silahlı Qüvvələri bölgədə söz sahibidir",
-        "link": "https://azertag.az/xeber/prezident_ilham_aliyev_azerbaycan_silahli_quvveleri_bolgede_soz_sahibidir-4362085",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "11.08.2026 | 22:21"
     },
     {
         "baslik": "Nvidia-nın Ermənistana investisiya planı nə deməkdir və ölkənin texnologiya sektorunu necə dəyişə bilər?",
