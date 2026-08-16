@@ -1,5 +1,40 @@
 [
     {
+        "baslik": "Sabah Abşeron çimərliklərində hava küləkli olacaq",
+        "link": "https://apa.az/weather-forecast/sabah-abseron-cimerliklerinde-hava-kulekli-olacaq-989558",
+        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a817db89004a6a817db89004b17868712246a817db8900486a817db890049.jpg",
+        "kaynak": "APA",
+        "zaman": "16.08.2026 | 13:44"
+    },
+    {
+        "baslik": "Manqal və fişəng xəbərdarlığı çaşqınlıq yaratdı: Britaniyalılara göndərilən SMS-lər niyə müzakirələrə səbəb oldu?",
+        "link": "https://azertag.az/xeber/manqal_ve_fiseng_xeberdarligi_chasqinliq_yaratdi_britaniyalilara_gonderilen_sms_ler_niye_muzakirelere_sebeb_oldu-4368665",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "16.08.2026 | 13:35"
+    },
+    {
+        "baslik": "Müdafiə Nazirliyinin rəhbərliyi istefada olan general-mayor Abbasəli Novruzovun vəfatı ilə əlaqədar başsağlığı verib",
+        "link": "https://azertag.az/xeber/mudafie_nazirliyinin_rehberliyi_istefada_olan_general_mayor_abbaseli_novruzovun_vefati_ile_elaqedar_bassagligi_verib-4368661",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "16.08.2026 | 13:25"
+    },
+    {
+        "baslik": "Ukraynanın sabiq prezidenti Viktor Yuşşenko Bakıya gəlib",
+        "link": "https://apa.az/foreign-policy/ukraynanin-sabiq-prezidenti-viktor-yussenko-bakiya-gelib-989561",
+        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a8181dd002086a8181dd0020917868722856a8181dd002066a8181dd00207.jfif",
+        "kaynak": "APA",
+        "zaman": "16.08.2026 | 13:24"
+    },
+    {
+        "baslik": "Goranboyda yük avtomobili qəza törədib, 1 tona yaxın yanacaq yola tökülüb - FOTOLENT",
+        "link": "https://apa.az/incident/goranboyda-yuk-avtomobili-qeza-toredib-1-tona-yaxin-yanacaq-yola-tokulub-fotolent-989559",
+        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a817db5451c66a817db5451c717868712216a817db5451c46a817db5451c5.jpg",
+        "kaynak": "APA",
+        "zaman": "16.08.2026 | 13:12"
+    },
+    {
         "baslik": "FHN Qarabağ kanalında batan 19 yaşlı qızla bağlı məlumat yayıb",
         "link": "https://apa.az/incident/fhn-qarabag-kanalinda-batan-19-yasli-qizla-bagli-melumat-yayib-989555",
         "resim": "https://apa.az/storage/news/2026/august/16/resize/6a817d1d69d306a817d1d69d3117868710696a817d1d69d2e6a817d1d69d2f.jpg",
@@ -77,13 +112,6 @@
         "zaman": "16.08.2026 | 12:10"
     },
     {
-        "baslik": "İsrail Livanın cənubunu yenidən vurub, müdafiə naziri İsrael Katz sərt açıqlama verib",
-        "link": "https://apa.az/asia/israil-livanin-cenubunu-yeniden-vurub-mudafie-naziri-israel-katz-sert-aciqlama-verib-989541",
-        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a816e69720766a816e697207717868673056a816e69720746a816e6972075.png",
-        "kaynak": "APA",
-        "zaman": "16.08.2026 | 12:01"
-    },
-    {
         "baslik": "Bu saata olan əsas xəbərlər",
         "link": "https://azertag.az/xeber/bu_saata_olan_esas_xeberler-4368601",
         "resim": "",
@@ -98,13 +126,6 @@
         "zaman": "16.08.2026 | 11:49"
     },
     {
-        "baslik": "Ukrayna ordusu Donbasda irəliləyib, iki mühüm istiqamət açıqlanıb",
-        "link": "https://apa.az/europe/ukrayna-ordusu-donbasda-irelileyib-iki-muhum-istiqamet-aciqlanib-989539",
-        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a81650b968e46a81650b968e517868649076a81650b968e16a81650b968e3.jpg",
-        "kaynak": "APA",
-        "zaman": "16.08.2026 | 11:39"
-    },
-    {
         "baslik": "Böyük Britaniyaya keçməyə çalışan 140-a yaxın miqrant xilas edilib",
         "link": "https://azertag.az/xeber/boyuk_britaniyaya_kechmeye_chalisan_140_a_yaxin_miqrant_xilas_edilib-4368585",
         "resim": "",
@@ -112,32 +133,11 @@
         "zaman": "16.08.2026 | 11:33"
     },
     {
-        "baslik": "Boks üzrə U-19 Avropa çempionatında Azərbaycan millisinin daha 2 idmançısı 1/4 finala vəsiqə qazanıb",
-        "link": "https://apa.az/fighting-sports/boks-uzre-u-19-avropa-cempionatinda-azerbaycan-millisinin-daha-2-idmancisi-14-finala-vesiqe-qazanib-989540",
-        "resim": "https://apa.az/storage/news/2026/august/16/resize/6a8165b09ffef6a8165b09fff017868650726a8165b09ffec6a8165b09ffee.webp",
-        "kaynak": "APA",
-        "zaman": "16.08.2026 | 11:23"
-    },
-    {
         "baslik": "Macarıstanda yol qəzasında 12 nəfər ölüb",
         "link": "https://azertag.az/xeber/macaristanda_yol_qezasinda_12_nefer_olub-4368573",
         "resim": "",
         "kaynak": "Azərtac",
         "zaman": "16.08.2026 | 11:23"
-    },
-    {
-        "baslik": "İran və Oman Hörmüz boğazı üçün gəmiçilik xəritəsi ilə bağlı razılığa gəliblər",
-        "link": "https://azertag.az/xeber/iran_ve_oman_hormuz_bogazi_uchun_gemichilik_xeritesi_ile_bagli_raziliga_gelibler-4368569",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "16.08.2026 | 11:15"
-    },
-    {
-        "baslik": "Britaniyada Reform partiyası sosial təminat xərclərini 50 milyard funt sterlinq azaltmağı planlaşdırır",
-        "link": "https://azertag.az/xeber/britaniyada_reform_partiyasi_sosial_teminat_xerclerini_50_milyard_funt_sterlinq_azaltmagi_planlasdirir-4368557",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "16.08.2026 | 11:02"
     },
     {
         "baslik": "\"Sea Breeze\"də qəza: ayağı su nasosunda sıxılıb qalmış uşaq həyatını itirib ",
