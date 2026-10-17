@@ -1,5 +1,82 @@
 [
     {
+        "baslik": "Nyu-York metrosunda atışma: 1 nəfər öldürülüb",
+        "link": "https://azertag.az/xeber/nyu_york_metrosunda_atisma_1_nefer_oldurulub-4467618",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "18.10.2026 | 02:38"
+    },
+    {
+        "baslik": "Fransada inflyasiya səviyyəsi 3,1 faizə çatıb",
+        "link": "https://az.trend.az/other/world/4236208.html",
+        "resim": "https://az.trend.az/media/2025/01/31/trend_statistika.jpg",
+        "kaynak": "Trend",
+        "zaman": "18.10.2026 | 02:15"
+    },
+    {
+        "baslik": "Pentaqon rəhbəri: İran Nüvə ambisiyalarından əl çəkməsə, məhv olacaq",
+        "link": "https://azertag.az/xeber/pentaqon_rehberi_iran_nuve_ambisiyalarindan_el_chekmese_mehv_olacaq-4467615",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "18.10.2026 | 02:11"
+    },
+    {
+        "baslik": "Moskvaya kütləvi dron hücumu: 195 PUA-nın vurulub",
+        "link": "https://apa.az/cis-countries/moskvaya-kutlevi-dron-hucumu-195-pua-nin-vurulub-1006025",
+        "resim": "https://apa.az/storage/news/2026/october/18/resize/6ad3eeed9f0b56ad3eeed9f0b617922741576ad3eeed9f0b36ad3eeed9f0b4.jpg",
+        "kaynak": "APA",
+        "zaman": "18.10.2026 | 01:55"
+    },
+    {
+        "baslik": "Bakıda 4 avtomobilin iştirakı ilə zəncirvari qəza baş verib, xəsarət alanlar var - FOTO - YENİLƏNİB",
+        "link": "https://apa.az/incident/bakida-4-avtomobilin-istiraki-ile-zencirvari-qeza-bas-verib-xesaret-alanlar-var-foto-yenilenib-1006022",
+        "resim": "https://apa.az/storage/news/2026/october/18/resize/6ad3ecfbbb62a6ad3ecfbbb62b17922736596ad3ecfbbb6286ad3ecfbbb629.jpeg",
+        "kaynak": "APA",
+        "zaman": "18.10.2026 | 01:54"
+    },
+    {
+        "baslik": "Tramp İrana hücumları müdafiə etdi: \"Orada bir az daha qala bilərik\"",
+        "link": "https://azertag.az/xeber/tramp_irana_hucumlari_mudafie_etdi__quotorada_bir_az_daha_qala_bilerik_quot-4467609",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "18.10.2026 | 01:35"
+    },
+    {
+        "baslik": "İtaliyada Azərbaycanın Müstəqilliyinin Bərpasının 35-ci ildönümü qeyd olunub",
+        "link": "https://az.trend.az/azerbaijan/politics/4236207.html",
+        "resim": "https://az.trend.az/media/2026/10/18/17922676472664418211_1200x630.jpg",
+        "kaynak": "Trend",
+        "zaman": "18.10.2026 | 01:31"
+    },
+    {
+        "baslik": "Nyu-York metrosunda 30 yaşlı kişi güllələnərək öldürülüb",
+        "link": "https://apa.az/america/nyu-york-metrosunda-30-yasli-kisi-gullelenerek-oldurulub-1006021",
+        "resim": "https://apa.az/storage/news/2026/october/18/resize/6ad3e784158c16ad3e784158c217922722606ad3e784158bf6ad3e784158c0.jpg",
+        "kaynak": "APA",
+        "zaman": "18.10.2026 | 01:23"
+    },
+    {
+        "baslik": "Moskva meri daha 25 dronun məhv edildiyini bildirib",
+        "link": "https://azertag.az/xeber/moskva_meri_daha_25_dronun_mehv_edildiyini_bildirib-4467606",
+        "resim": "",
+        "kaynak": "Azərtac",
+        "zaman": "18.10.2026 | 01:03"
+    },
+    {
+        "baslik": "“Qarabağ” – “Neftçi” matçında insidentə cəhd göstərən 19 nəfər saxlanılıb",
+        "link": "https://az.trend.az/azerbaijan/society/4236205.html",
+        "resim": "https://az.trend.az/media/2020/06/16/trend_ppx_160620.jpg",
+        "kaynak": "Trend",
+        "zaman": "18.10.2026 | 00:51"
+    },
+    {
+        "baslik": "Tramp Baydeni Ukraynaya külli miqdarda silahı pulsuz verməkdə ittiham edib",
+        "link": "https://apa.az/america/tramp-baydeni-ukraynaya-kulli-miqdarda-silahi-pulsuz-vermekde-ittiham-edib-1006018",
+        "resim": "https://apa.az/storage/news/2026/october/18/resize/6ad3da62d0c4b6ad3da62d0c4c17922688986ad3da62d0c496ad3da62d0c4a.jpg",
+        "kaynak": "APA",
+        "zaman": "18.10.2026 | 00:46"
+    },
+    {
         "baslik": "DİN: “Qarabağ” – “Neftçi” matçında insidentə cəhd göstərən 19 nəfər saxlanılıb",
         "link": "https://azertag.az/xeber/din_qarabag___neftchi_matchinda_insidente_cehd_gosteren_19_nefer_saxlanilib-4467603",
         "resim": "",
@@ -105,67 +182,11 @@
         "zaman": "17.10.2026 | 22:59"
     },
     {
-        "baslik": "Bundesliqa: “Bavariya” öz meydanında “Leypsiq”i darmadağın edib",
-        "link": "https://azertag.az/xeber/bundesliqa_bavariya_oz_meydaninda_leypsiqi_darmadagin_edib-4467585",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "17.10.2026 | 22:55"
-    },
-    {
-        "baslik": "Türkiyəli siyasətçi: Azərbaycan və Türkiyə bir-birindən ayrılmazdır",
-        "link": "https://azertag.az/xeber/turkiyeli_siyasetchi_azerbaycan_ve_turkiye_bir_birinden_ayrilmazdir-4467576",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "17.10.2026 | 22:49"
-    },
-    {
-        "baslik": "Times: \"Starlink\" məhdudiyyətləri Ukraynanın ABŞ texnologiyalarından asılılığını üzə çıxarıb",
-        "link": "https://apa.az/europe/times-starlink-mehdudiyyetleri-ukraynanin-abs-texnologiyalarindan-asililigini-uze-cixarib-1005998",
-        "resim": "https://apa.az/storage/news/2026/october/17/resize/6ad3a93da0be36ad3a93da0be417922563176ad3a93da0be16ad3a93da0be2.jpg",
-        "kaynak": "APA",
-        "zaman": "17.10.2026 | 22:38"
-    },
-    {
-        "baslik": "Fransada keçirilən aksiyalarda yüz minlərlə insan iştirak edib, nümayişlərdə zorakılıq halları qeydə alınıb YENİLƏNİB",
-        "link": "https://azertag.az/xeber/fransada_kechirilen_aksiyalarda_yuz_minlerle_insan_istirak_edib_numayislerde_zorakiliq_hallari_qeyde_alinib_yenilenib-4467486",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "17.10.2026 | 22:25"
-    },
-    {
         "baslik": "İKTA internet operator və provayderləri üzrə şikayət hesabatını açıqlayıb",
         "link": "https://az.trend.az/business/4236200.html",
         "resim": "https://az.trend.az/media/2026/10/15/trend_sened_qanun.png",
         "kaynak": "Trend",
         "zaman": "17.10.2026 | 22:22"
-    },
-    {
-        "baslik": "\"Fənərbaxça\" öz meydanında \"Alanyaspor\"u məğlub edib",
-        "link": "https://apa.az/football/fenerbaxca-oz-meydaninda-alanyasporu-meglub-edib-1006008",
-        "resim": "https://apa.az/storage/news/2026/october/17/resize/6ad3baaa11c916ad3baaa11c9217922607786ad3baaa11c8f6ad3baaa11c90.webp",
-        "kaynak": "APA",
-        "zaman": "17.10.2026 | 22:12"
-    },
-    {
-        "baslik": "İran və Pakistan arasında sərhəd keçidləri müvəqqəti dayandırılıb",
-        "link": "https://apa.az/asia/iran-ve-pakistan-arasinda-serhed-kecidleri-muveqqeti-dayandirilib-1006006",
-        "resim": "https://apa.az/storage/news/2026/october/17/resize/6ad3b97cc33aa6ad3b97cc33ab17922604766ad3b97cc33a86ad3b97cc33a9.jpg",
-        "kaynak": "APA",
-        "zaman": "17.10.2026 | 22:06"
-    },
-    {
-        "baslik": "Azərbaycan FIFA U-15 Dünya Çempionatı və Festivalına hazırlaşır VİDEO",
-        "link": "https://azertag.az/xeber/azerbaycan_fifa_u_15_dunya_chempionati_ve_festivalina_hazirlasir_video-4467564",
-        "resim": "",
-        "kaynak": "Azərtac",
-        "zaman": "17.10.2026 | 21:59"
-    },
-    {
-        "baslik": "Fransada kütləvi etirazlar zamanı 272 nəfər saxlanılıb",
-        "link": "https://apa.az/europe/fransada-kutlevi-etirazlar-zamani-272-nefer-saxlanilib-1005999",
-        "resim": "https://apa.az/storage/news/2026/october/17/resize/6ad3a9d17bff86ad3a9d17bff917922564656ad3a9d17bff66ad3a9d17bff7.jpg",
-        "kaynak": "APA",
-        "zaman": "17.10.2026 | 21:58"
     },
     {
         "baslik": "“Qarabağ\" - \"Neftçi\" oyunu heç-heçə ilə bitib",
@@ -187,27 +208,6 @@
         "resim": "https://az.trend.az/media/2026/10/17/55c42e3d-e7e5-4ac1-9358-ed50990a7770.jpg",
         "kaynak": "Trend",
         "zaman": "17.10.2026 | 20:32"
-    },
-    {
-        "baslik": "Fransada etiraz aksiyaları zamanı qarşıdurmalar baş verib",
-        "link": "https://az.trend.az/other/world/4236191.html",
-        "resim": "https://az.trend.az/media/2026/07/01/paris_eifel_eyfel_fransa.jpg",
-        "kaynak": "Trend",
-        "zaman": "17.10.2026 | 20:26"
-    },
-    {
-        "baslik": "\"Borussiya Dortmund\" Bundesliqada xal itirib",
-        "link": "https://az.trend.az/azerbaijan/sports/4236190.html",
-        "resim": "https://az.trend.az/media/2026/09/19/trend_futbol.jpg",
-        "kaynak": "Trend",
-        "zaman": "17.10.2026 | 19:48"
-    },
-    {
-        "baslik": "Xırdalanda 20 yaşlı gənc beşinci mərtəbədən yıxılaraq ölüb",
-        "link": "https://az.trend.az/azerbaijan/incident/4236189.html",
-        "resim": "https://az.trend.az/media/2026/10/17/trend_cavid.jpg",
-        "kaynak": "Trend",
-        "zaman": "17.10.2026 | 19:08"
     },
     {
         "baslik": "Hicab barədə \"qərar icra edilməlidir, vəssalam\" - deputat Hikmət Babaoğlu",
