@@ -1,10 +1,115 @@
 [
     {
+        "baslik": "Tramp Kanada mallarına tətbiq edilən 50 faizlik gömrük rüsumlarının siyahısını dəyişib",
+        "link": "https://az.trend.az/other/world/4238567.html",
+        "resim": "https://az.trend.az/media/2026/09/17/canada.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 05:00"
+    },
+    {
+        "baslik": "Zelenski: Rusiya hər ay 140 ballistik raket istehsal edir",
+        "link": "https://apa.az/europe/zelenski-rusiya-her-ay-140-ballistik-raket-istehsal-edir-1007858",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbe49f4ff296adbe49f4ff2a17927958076adbe49f4ff276adbe49f4ff28.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 04:54"
+    },
+    {
+        "baslik": "Argentinada El Ninyo ilə əlaqəli daşqınlar səbəbindən 2 mindən çox insan təxliyə edilib",
+        "link": "https://az.trend.az/other/world/4238566.html",
+        "resim": "https://az.trend.az/media/2011/01/25/Argentina_250111_15.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 04:38"
+    },
+    {
+        "baslik": "ABŞ Səudiyyə Ərəbistanındakı səfirliyinin əməkdaşlarını təxliyə edir",
+        "link": "https://apa.az/america/abs-seudiyye-erebistanindaki-sefirliyinin-emekdaslarini-texliye-edir-1007866",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbf908909d36adbf908909d417928010326adbf908909d06adbf908909d2.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 04:22"
+    },
+    {
+        "baslik": "Hörmüz boğazında iki neft tankeri minaya düşüb",
+        "link": "https://apa.az/asia/hormuz-bogazinda-iki-neft-tankeri-minaya-dusub-1007863",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbf7c6385e66adbf7c6385e717928007106adbf7c6385e46adbf7c6385e5.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 04:13"
+    },
+    {
+        "baslik": "Rubio: Ukraynadakı müharibənin əsas mübahisə mövzusu Donbasdır",
+        "link": "https://apa.az/america/rubio-ukraynadaki-muharibenin-esas-mubahise-movzusu-donbasdir-1007862",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbf623854576adbf6238545817928002916adbf623854546adbf62385456.webp",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 04:05"
+    },
+    {
+        "baslik": "Rumıniya Qara dənizdə gəmiyə dronla növbəti ölümcül hücumdan sonra Rusiyanı ittiham edib",
+        "link": "https://az.trend.az/other/world/4238563.html",
+        "resim": "https://az.trend.az/media/2026/10/21/romania_flag.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 04:03"
+    },
+    {
+        "baslik": "Tramp Rusiya və Ukraynaya qarşı 200 faizlik rüsum tətbiq edə biləcəyini bildirib",
+        "link": "https://apa.az/america/tramp-rusiya-ve-ukraynaya-qarsi-200-faizlik-rusum-tetbiq-ede-bileceyini-bildirib-1007856",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbe43f0a3526adbe43f0a35317927957116adbe43f0a3506adbe43f0a351.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 03:49"
+    },
+    {
+        "baslik": "Ağ Evin keçmiş mətbuat katibi jurnalistlərin davranışından dəhşətə gəlmişdi - Tramp",
+        "link": "https://az.trend.az/other/world/4238561.html",
+        "resim": "https://az.trend.az/media/2026/09/19/trump_beyanat_7.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 03:37"
+    },
+    {
+        "baslik": "Almaniya qışa hazırlıq üçün əlavə qaz tədarükünə 245 milyon avro ayırır",
+        "link": "https://apa.az/europe/almaniya-qisa-hazirliq-ucun-elave-qaz-tedarukune-245-milyon-avro-ayirir-1007853",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbe3fa42fbd6adbe3fa42fbe17927956426adbe3fa42fbb6adbe3fa42fbc.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 03:32"
+    },
+    {
+        "baslik": "Dövlət Bağçalı: Türkiyə ilə Azərbaycan arasında etimadın qorunması həyati əhəmiyyət daşıyır",
+        "link": "https://apa.az/asia/dovlet-bagcali-turkiye-ile-azerbaycan-arasinda-etimadin-qorunmasi-heyati-ehemiyyet-dasiyir-1007861",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbeca2e40126adbeca2e401317927978586adbeca2e400f6adbeca2e4010.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 03:25"
+    },
+    {
+        "baslik": "İndi əsl vaxtıdır - Marko Rubio Kubada dəyişiklik istəyənləri MKİ ilə əməkdaşlığa çağırıb",
+        "link": "https://az.trend.az/other/world/4238560.html",
+        "resim": "https://az.trend.az/media/2026/01/13/marco_rubio.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 03:02"
+    },
+    {
+        "baslik": "NYT: ABŞ senatorları Trampın irəli sürdüyü namizədlərin təsdiqini əngəlləyə bilərlər",
+        "link": "https://apa.az/america/nyt-abs-senatorlari-trampin-ireli-surduyu-namizedlerin-tesdiqini-engelleye-bilerler-1007852",
+        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbe3c09151d6adbe3c09151e17927955846adbe3c09151b6adbe3c09151c.jpg",
+        "kaynak": "APA",
+        "zaman": "24.10.2026 | 02:50"
+    },
+    {
+        "baslik": "İsrail: Benyamin Netanyahu ölkənin beynəlxalq sanksiyalardan yan keçməyə hazırlaşmalı olduğunu bildirib",
+        "link": "https://az.trend.az/other/world/4238559.html",
+        "resim": "https://az.trend.az/media/2024/06/07/benjamin_netanyahu_070624.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 02:31"
+    },
+    {
         "baslik": "Tramp İrana qarşı yeni hərbi əməliyyat keçirə biləcəklərini açıqlayıb",
         "link": "https://apa.az/america/tramp-irana-qarsi-yeni-herbi-emeliyyat-kecire-bileceklerini-aciqlayib-1007851",
         "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbd86b7d7086adbd86b7d70917927926836adbd86b7d7066adbd86b7d707.jpg",
         "kaynak": "APA",
         "zaman": "24.10.2026 | 02:19"
+    },
+    {
+        "baslik": "Ukrayna ordusu oktyabrın 27-dən etibarən Oleşkidə atəşkəsə əməl edəcəyini açıqlayıb",
+        "link": "https://az.trend.az/other/world/4238558.html",
+        "resim": "https://az.trend.az/media/2026/10/16/ukraine_soldier_starlink_drone.jpg",
+        "kaynak": "Trend",
+        "zaman": "24.10.2026 | 02:00"
     },
     {
         "baslik": "İlon Mask Ukrayna elitasını Qərb yardımları hesabına varlanmaqda ittiham edib",
@@ -14,130 +119,25 @@
         "zaman": "24.10.2026 | 01:43"
     },
     {
-        "baslik": "BVF: Ukraynanın 2027-ci il büdcəsi üçün əlavə 30–35 milyard dollar tələb olunur",
-        "link": "https://apa.az/europe/bvf-ukraynanin-2027-ci-il-budcesi-ucun-elave-30-35-milyard-dollar-teleb-olunur-1007848",
-        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbc6da31e386adbc6da31e3917927881866adbc6da31e366adbc6da31e37.jpg",
-        "kaynak": "APA",
-        "zaman": "24.10.2026 | 01:19"
-    },
-    {
-        "baslik": "Niderlandda güclü fırtına səbəbindən 40-dan çox aviareys ləğv edilib",
-        "link": "https://apa.az/europe/niderlandda-guclu-firtina-sebebinden-40-dan-cox-aviareys-legv-edilib-1007845",
-        "resim": "https://apa.az/storage/news/2026/october/24/resize/6adbc69f55a096adbc69f55a0a17927881276adbc69f55a076adbc69f55a08.jpg",
-        "kaynak": "APA",
-        "zaman": "24.10.2026 | 00:50"
-    },
-    {
-        "baslik": "Bloomberg: ABŞ və Böyük Britaniya arasında Ukrayna və İran məsələlərinə görə fikir ayrılığı yaranıb",
-        "link": "https://apa.az/america/bloomberg-abs-ve-boyuk-britaniya-arasinda-ukrayna-ve-iran-meselelerine-gore-fikir-ayriligi-yaranib-1007844",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adbb691cb4366adbb691cb43717927840176adbb691cb4346adbb691cb435.webp",
-        "kaynak": "APA",
-        "zaman": "24.10.2026 | 00:21"
-    },
-    {
-        "baslik": "44 günlük Vətən müharibəsinin xronikası: 24 oktyabr",
-        "link": "https://az.trend.az/azerbaijan/politics/4238549.html",
-        "resim": "https://az.trend.az/media/2024/09/04/940cda2b-1d5e-351c-a146-ae460f477772.jpg",
+        "baslik": "Neymar Braziliyada prezident seçkiləri ərəfəsində Flavio Bolsonaroya dəstəyini ifadə edib",
+        "link": "https://az.trend.az/other/world/4238557.html",
+        "resim": "https://az.trend.az/media/2024/09/10/neymar.jpg",
         "kaynak": "Trend",
-        "zaman": "24.10.2026 | 00:01"
+        "zaman": "24.10.2026 | 01:29"
     },
     {
-        "baslik": "Avropa İttifaqı Ukrayna ilə bağlı sülh danışıqlarına qoşulmaq istəyir",
-        "link": "https://apa.az/europe/avropa-ittifaqi-ukrayna-ile-bagli-sulh-danisiqlarina-qosulmaq-isteyir-1007840",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adba9d7d3d366adba9d7d3d3717927807596adba9d7d3d326adba9d7d3d34.jpg",
-        "kaynak": "APA",
-        "zaman": "23.10.2026 | 23:47"
-    },
-    {
-        "baslik": "BMT-də Azərbaycanın əlillik sahəsindəki islahatlarından və mina qurbanlarından bəhs olunub",
-        "link": "https://az.trend.az/azerbaijan/politics/4238552.html",
-        "resim": "https://az.trend.az/media/2026/10/24/shahriyar_hajiyev_oct_23.jpg",
+        "baslik": "ABŞ İrana bu həftəsonu zərbə endirə bilər – amerikalı diplomat",
+        "link": "https://az.trend.az/other/world/4238556.html",
+        "resim": "https://az.trend.az/media/2025/04/26/trend_iran_usa_flags_260425_3.jpg",
         "kaynak": "Trend",
-        "zaman": "23.10.2026 | 23:39"
+        "zaman": "24.10.2026 | 01:02"
     },
     {
-        "baslik": "Zaqatalaya güclü leysan və dolu yağıb - VİDEO",
-        "link": "https://apa.az/weather-forecast/zaqatalaya-guclu-leysan-ve-dolu-yagib-video-1007843",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adbb2381e2036adbb2381e20417927829046adbb2381e2016adbb2381e202.jpg",
-        "kaynak": "APA",
-        "zaman": "23.10.2026 | 23:15"
-    },
-    {
-        "baslik": "ABŞ strateji ehtiyatlarından 400 min barel neft ayıracaq",
-        "link": "https://apa.az/america/abs-strateji-ehtiyatlarindan-400-min-barel-neft-ayiracaq-1007834",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adba4bfb12846adba4bfb128517927794556adba4bfb12826adba4bfb1283.jpg",
-        "kaynak": "APA",
-        "zaman": "23.10.2026 | 23:09"
-    },
-    {
-        "baslik": "Donald Tramp Kiyev üçün Starshield bərpa edilmədikdə İlon Maska təzyiq edəcək",
-        "link": "https://az.trend.az/other/world/4238548.html",
-        "resim": "https://az.trend.az/media/2026/10/10/trump_new-york.jpg",
+        "baslik": "İordaniyada kilsədə atışma nəticəsində azı yeddi nəfər həlak olub",
+        "link": "https://az.trend.az/other/world/4238555.html",
+        "resim": "https://www.trend.az/assets/img/image-placeholder.png",
         "kaynak": "Trend",
-        "zaman": "23.10.2026 | 23:06"
-    },
-    {
-        "baslik": "Qızıla pul qoyanlar uduzdu - Qiymətlər kəskin ucuzlaşıb",
-        "link": "https://az.trend.az/azerbaijan/society/4238546.html",
-        "resim": "https://az.trend.az/media/2026/09/12/gold_1200x600.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 22:38"
-    },
-    {
-        "baslik": "Moldova Rusiya diplomatını ölkədən çıxarmaq qərarına gəlib",
-        "link": "https://apa.az/europe/moldova-rusiya-diplomatini-olkeden-cixarmaq-qerarina-gelib-1007837",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adba99a867546adba99a8675517927806986adba99a867526adba99a86753.jpg",
-        "kaynak": "APA",
-        "zaman": "23.10.2026 | 22:36"
-    },
-    {
-        "baslik": "Polşa ABŞ-ın hərbi bazasının tikintisinə 3,8 milyard dollar ayırmağı planlaşdırır",
-        "link": "https://apa.az/europe/polsa-abs-in-herbi-bazasinin-tikintisine-38-milyard-dollar-ayirmagi-planlasdirir-1007833",
-        "resim": "https://apa.az/storage/news/2026/october/23/resize/6adba4300ef506adba4300ef5117927793126adba4300ef4e6adba4300ef4f.jpg",
-        "kaynak": "APA",
-        "zaman": "23.10.2026 | 22:23"
-    },
-    {
-        "baslik": "Ronaldunun karyerasındakı 982-ci qolu \"Əl-Nəsri\"n Pro Liqada qələbə qazanmasına kömək edib",
-        "link": "https://az.trend.az/azerbaijan/sports/4238545.html",
-        "resim": "https://az.trend.az/media/2026/10/23/al_faisaly.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 22:01"
-    },
-    {
-        "baslik": "Melania Tramp 29 oktyabrdan etibarən Oleşkidə atəşkəs əldə edib - Ağ Ev",
-        "link": "https://az.trend.az/other/world/4238544.html",
-        "resim": "https://az.trend.az/media/2025/10/29/melania_tramp.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 21:31"
-    },
-    {
-        "baslik": "Çağırışçılara xəbərdarlıq: bunu etməsəniz, 100 manat cərimə olunacaqsız",
-        "link": "https://az.trend.az/azerbaijan/society/4238477.html",
-        "resim": "https://az.trend.az/media/2026/03/27/trend_esger_herbci_herbchi_zabit_rutbe_gizir_chavush_herbi_qulluqchu.png",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 21:00"
-    },
-    {
-        "baslik": "Bakıda zeytun festivalı başlayıb – üç gün qastronomik yeniliklər, milli ənənələr və konsertlər (FOTO)",
-        "link": "https://az.trend.az/azerbaijan/society/4238538.html",
-        "resim": "https://az.trend.az/media/2026/10/23/trend_olive_1_01.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 20:48"
-    },
-    {
-        "baslik": "Türk İnvestisiya Fondunun Rəhbərlər Şurasına sədrlik Azərbaycana həvalə olunub (FOTO)",
-        "link": "https://az.trend.az/business/4238541.html",
-        "resim": "https://az.trend.az/media/2026/10/23/1.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 20:42"
-    },
-    {
-        "baslik": "Bağçalı Türkiyədəki səfirimizlə görüşüb",
-        "link": "https://az.trend.az/azerbaijan/politics/4238540.html",
-        "resim": "https://az.trend.az/media/2026/10/23/screenshot_3.jpg",
-        "kaynak": "Trend",
-        "zaman": "23.10.2026 | 20:26"
+        "zaman": "24.10.2026 | 00:33"
     },
     {
         "baslik": "İsa Qəmbər: \"Azərbaycan xalqının daxilində bir ədalət, bərabərlik hissi var, azadlıq istəyi var\"",
